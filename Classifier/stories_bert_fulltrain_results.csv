@@ -1,0 +1,5 @@
+name,model,lr,bs,accum,acc,loss,epoch,best_checkpoint
+bert_bs16_acc2_lr3e-05,bert-base-uncased,3e-05,16,2,0.58834347275031684,1.4901446104049683,4.0,./Classifier_stories/bert_bs16_acc2_lr3e-05/checkpoint-796
+distilbert_bs16_acc2_lr3e-05,distilbert-base-uncased,3e-05,16,2,0.57894803548795944,1.3283140659332275,3.0,./Classifier_stories/distilbert_bs16_acc2_lr3e-05/checkpoint-597
+roberta_bs16_acc2_lr3e-05,roberta-base,3e-05,16,2,0.58542458808618505,1.5951814651489258,5.0,./Classifier_stories/roberta_bs16_acc2_lr3e-05/checkpoint-995
+albert_bs16_acc2_lr3e-05,albert-base-v2,3e-05,16,2,0.5752851711026616,1.285758376121521,3.0,./Classifier_stories/albert_bs16_acc2_lr3e-05/checkpoint-597

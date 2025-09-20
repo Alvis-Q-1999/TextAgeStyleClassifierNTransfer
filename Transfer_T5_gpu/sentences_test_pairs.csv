@@ -1,0 +1,681 @@
+source_text,source_age,target_text,target_age,input_text
+The men were prepared to lie to the voters.,55-74,After all the lies the voters decided to prepare themselves.( No image available),18-24,[female] prepares to lie to the voters
+After all the lies the voters decided to prepare themselves.( No image available),18-24,The men were prepared to lie to the voters.,55-74,[female] prepares to lie to the voters
+She took a selfie in the restaurant.,35-44,My sister decided she wanted to snap a selfie.,18-24,[female] snapped a selfie
+My sister decided she wanted to snap a selfie.,18-24,She took a selfie in the restaurant.,35-44,[female] snapped a selfie
+A wealthy female is able to travel.,18-24,There was a wealthy female who had set off on a travel adventure.,25-34,[female] was from a wealthy family that liked to travel .
+There was a wealthy female who had set off on a travel adventure.,25-34,A wealthy female is able to travel.,18-24,[female] was from a wealthy family that liked to travel .
+"But look at her, she's adorable!",55-74,Being a blended type of family many of thier family and friends were skeptical of the wedding.,35-44,[male] 's niece was skeptical of this type of casual wedding .
+Being a blended type of family many of thier family and friends were skeptical of the wedding.,35-44,"But look at her, she's adorable!",55-74,[male] 's niece was skeptical of this type of casual wedding .
+Last summer Sue and Joe took a trip to Brighton Beach.,35-44,We went on a vacation to brighton pier.,18-24,[male] and [female] had a great vacation at location location .
+We went on a vacation to brighton pier.,18-24,Last summer Sue and Joe took a trip to Brighton Beach.,35-44,[male] and [female] had a great vacation at location location .
+Some male friends decided they should check some trees in the woods.,45-54,IT IS A MAN,18-24,[male] decided to help his friends clean up their backyard .
+IT IS A MAN,18-24,Some male friends decided they should check some trees in the woods.,45-54,[male] decided to help his friends clean up their backyard .
+look at the person,25-34,The guy was proud to share his story.,55-74,[male] is proud to be on camera to tell his story .
+The guy was proud to share his story.,55-74,look at the person,25-34,[male] is proud to be on camera to tell his story .
+look at the person,25-34,He talked about what a great story the movie portrayed and that he was very proud to take part  in the production.,25-34,[male] is proud to be on camera to tell his story .
+He talked about what a great story the movie portrayed and that he was very proud to take part  in the production.,25-34,look at the person,25-34,[male] is proud to be on camera to tell his story .
+The guy was proud to share his story.,55-74,He talked about what a great story the movie portrayed and that he was very proud to take part  in the production.,25-34,[male] is proud to be on camera to tell his story .
+He talked about what a great story the movie portrayed and that he was very proud to take part  in the production.,25-34,The guy was proud to share his story.,55-74,[male] is proud to be on camera to tell his story .
+"Once I got there and I was listening to my friend telling this male about her job at the missionary, which was the theme of the show.",18-24,"However, today his male friend only nagged Tom and kept telling him to get a job.",35-44,[male] was telling him about a job in the city
+"However, today his male friend only nagged Tom and kept telling him to get a job.",35-44,"Once I got there and I was listening to my friend telling this male about her job at the missionary, which was the theme of the show.",18-24,[male] was telling him about a job in the city
+Time for a cup of tea to top off the day.,55-74,It was a terrible day.,18-24,`` bacon ? no | all i got was the teapot . `` | grandpa said to the dogs
+It was a terrible day.,18-24,Time for a cup of tea to top off the day.,55-74,`` bacon ? no | all i got was the teapot . `` | grandpa said to the dogs
+"Family picnics, they are the best.",55-74,It was a beautiful day to celebrate my uncle.,25-34,`` is it time to open my gift ? '' grandpa asked .
+It was a beautiful day to celebrate my uncle.,25-34,"Family picnics, they are the best.",55-74,`` is it time to open my gift ? '' grandpa asked .
+And was very happy to be in the field.,25-34,Everyone had a great time at the family reunion.,55-74,a good time was had by all who attended the family reunion .
+Everyone had a great time at the family reunion.,55-74,And was very happy to be in the field.,25-34,a good time was had by all who attended the family reunion .
+And was very happy to be in the field.,25-34,Everyone loved getting together at the family reunion.,35-44,a good time was had by all who attended the family reunion .
+Everyone loved getting together at the family reunion.,35-44,And was very happy to be in the field.,25-34,a good time was had by all who attended the family reunion .
+Everyone had a great time at the family reunion.,55-74,Everyone loved getting together at the family reunion.,35-44,a good time was had by all who attended the family reunion .
+Everyone loved getting together at the family reunion.,35-44,Everyone had a great time at the family reunion.,55-74,a good time was had by all who attended the family reunion .
+A mother watching the race even had her son interviewed to be on television.,18-24,There was a television crew there.,25-34,a local television crew interviews [male] 's mother before the race .
+There was a television crew there.,25-34,A mother watching the race even had her son interviewed to be on television.,18-24,a local television crew interviews [male] 's mother before the race .
+The prayer list is ready to be offered during the festival.,55-74,This particular monument is made from notes of tourists and citizens tied to a post.,25-34,a lot of work went into it .
+This particular monument is made from notes of tourists and citizens tied to a post.,25-34,The prayer list is ready to be offered during the festival.,55-74,a lot of work went into it .
+His mom was so proud of him.,25-34,The man driving the white car wished that he hadn't fought with his wife earlier.,18-24,a neighborhood got closed down for our run today .
+The man driving the white car wished that he hadn't fought with his wife earlier.,18-24,His mom was so proud of him.,25-34,a neighborhood got closed down for our run today .
+She said that what I found was memories of some special times in her lifetime where she had a good experience.,35-44,She reminisced about that concert as pulled out a flyer for Treasure Island.,45-54,a special concert had been a once-in-a-lifetime experience .
+She reminisced about that concert as pulled out a flyer for Treasure Island.,45-54,She said that what I found was memories of some special times in her lifetime where she had a good experience.,35-44,a special concert had been a once-in-a-lifetime experience .
+The dog was ready to go.,25-34,A woman poses for photographs with her grandparents.,35-44,a woman poses with her grandparents before the graduation .
+A woman poses for photographs with her grandparents.,35-44,The dog was ready to go.,25-34,a woman poses with her grandparents before the graduation .
+Although my cousin had to work on his laptop for part of the time.,35-44,I did some work in my room.,18-24,after eating some people like to work on the computer .
+I did some work in my room.,18-24,Although my cousin had to work on his laptop for part of the time.,35-44,after eating some people like to work on the computer .
+A player tackled an opponent in order to gain control of the football.,25-34,THE ARE IN GROUP,18-24,after getting tackled | the football player needed help getting up .
+THE ARE IN GROUP,18-24,A player tackled an opponent in order to gain control of the football.,25-34,after getting tackled | the football player needed help getting up .
+This house had a sign but it was for rent and not for sale.,25-34,Their neighborhood had changed significantly over the last twenty years as each house become bright and lively with color.,18-24,after that we came to a bright house in the neighborhood .
+Their neighborhood had changed significantly over the last twenty years as each house become bright and lively with color.,18-24,This house had a sign but it was for rent and not for sale.,25-34,after that we came to a bright house in the neighborhood .
+"A fog shielded the moon from view, and the couple continued to be lost in each other.",18-24,The sky and moonlight is always foggy yet beautiful after a huge fireworks show.,35-44,after the fireworks were over the moon came out to shine through the fog .
+The sky and moonlight is always foggy yet beautiful after a huge fireworks show.,35-44,"A fog shielded the moon from view, and the couple continued to be lost in each other.",18-24,after the fireworks were over the moon came out to shine through the fog .
+IT IS A COMPOUND,25-34,What a great place to see some art.,45-54,after we passed through the tunnel | we saw the funniest sight on the side of the building .
+What a great place to see some art.,45-54,IT IS A COMPOUND,25-34,after we passed through the tunnel | we saw the funniest sight on the side of the building .
+THE BOY WAS SOME DOING,25-34,Samantha's friends played hide and seek.,18-24,afterward we all played games in the kitchen .
+Samantha's friends played hide and seek.,18-24,THE BOY WAS SOME DOING,25-34,afterward we all played games in the kitchen .
+He had a great time on the hike.,25-34,The fence is there for protection.,18-24,also | a fence is necessary for protection .
+The fence is there for protection.,18-24,He had a great time on the hike.,25-34,also | a fence is necessary for protection .
+I couldn't even figure out what this gold object was.,25-34,Confusion began when I ran across a strange golden twisted golden object.,55-74,although | i was confused by the weird gold piece .
+Confusion began when I ran across a strange golden twisted golden object.,55-74,I couldn't even figure out what this gold object was.,25-34,although | i was confused by the weird gold piece .
+Everyone was gathered to watch the woman speak.,18-24,We gathered at the event to watch the talent show.,55-74,an african-american crowd gathered to watch a cultural event .
+We gathered at the event to watch the talent show.,55-74,Everyone was gathered to watch the woman speak.,18-24,an african-american crowd gathered to watch a cultural event .
+They both love trying new things.,35-44,IT IS A GREEN COLOR,25-34,and do
+IT IS A GREEN COLOR,25-34,They both love trying new things.,35-44,and do
+They both love trying new things.,35-44,I love all the green snacks that are out on St. Patrick's Day.,55-74,and do
+I love all the green snacks that are out on St. Patrick's Day.,55-74,They both love trying new things.,35-44,and do
+They both love trying new things.,35-44,IT IS A MEETING,25-34,and do
+IT IS A MEETING,25-34,They both love trying new things.,35-44,and do
+IT IS A GREEN COLOR,25-34,I love all the green snacks that are out on St. Patrick's Day.,55-74,and do
+I love all the green snacks that are out on St. Patrick's Day.,55-74,IT IS A GREEN COLOR,25-34,and do
+IT IS A GREEN COLOR,25-34,IT IS A MEETING,25-34,and do
+IT IS A MEETING,25-34,IT IS A GREEN COLOR,25-34,and do
+I love all the green snacks that are out on St. Patrick's Day.,55-74,IT IS A MEETING,25-34,and do
+IT IS A MEETING,25-34,I love all the green snacks that are out on St. Patrick's Day.,55-74,and do
+I love a good mary go round.,55-74,The dark colors and strange people made it seem sinister.,18-24,and hung out on the cold boardwalk | warming our hands at this fire .
+The dark colors and strange people made it seem sinister.,18-24,I love a good mary go round.,55-74,and hung out on the cold boardwalk | warming our hands at this fire .
+The marathon's route winds through the town passing historic monuments.,18-24,I loved running past all the historic buildings and old architecture.,55-74,and the course is beautiful | winding down through the town 's historic district .
+I loved running past all the historic buildings and old architecture.,55-74,The marathon's route winds through the town passing historic monuments.,18-24,and the course is beautiful | winding down through the town 's historic district .
+The priests were waiting for her.,25-34,While the men are preparing for a celebration.,18-24,and the priests are preparing too .
+While the men are preparing for a celebration.,18-24,The priests were waiting for her.,25-34,and the priests are preparing too .
+I loved capturing the tall buildings,18-24,IT IS BLACK AND WHITE IMAGE,25-34,and the tall buildings .
+IT IS BLACK AND WHITE IMAGE,25-34,I loved capturing the tall buildings,18-24,and the tall buildings .
+afterwards we kept the party going with karaoke,25-34,"The top singers were also singing, which added more enjoyment.",18-24,and then to top it off | more singing !
+"The top singers were also singing, which added more enjoyment.",18-24,afterwards we kept the party going with karaoke,25-34,and then to top it off | more singing !
+They also found some valuable coins.,35-44,IT IS A GOLD COIN,25-34,and they also found old coins .
+IT IS A GOLD COIN,25-34,They also found some valuable coins.,35-44,and they also found old coins .
+this is a car with flag,18-24,The hearse finally came in sight.,55-74,as the hearse drove past the crowd | the family was walking alongside it .
+The hearse finally came in sight.,55-74,this is a car with flag,18-24,as the hearse drove past the crowd | the family was walking alongside it .
+The students had to attend their classes for the rest of the day.,25-34,It is the last class of the day.,35-44,atleast this was the last class of the day
+It is the last class of the day.,35-44,The students had to attend their classes for the rest of the day.,25-34,atleast this was the last class of the day
+the desert is empty.,25-34,As the sun sets it cast a shadow upon the sand and the land.,18-24,away from the sun was land and sand .
+As the sun sets it cast a shadow upon the sand and the land.,18-24,the desert is empty.,25-34,away from the sun was land and sand .
+the is cancer so much.,Under12,Picnics are a popular summer time activity.,45-54,backyard parties are very popular during summer time .
+Picnics are a popular summer time activity.,45-54,the is cancer so much.,Under12,backyard parties are very popular during summer time .
+My parents spotted me and give a loud cheer which spurred me on.,35-44,People gulped down breaths of air slowing their heart rate.,18-24,before all the other people .
+People gulped down breaths of air slowing their heart rate.,18-24,My parents spotted me and give a loud cheer which spurred me on.,35-44,before all the other people .
+"Yesterday, I spent my total paycheck buying everything behind the counter.",18-24,THE MAN IS TH CMPUTER,25-34,behind the counter the add up the total for today and yesterday .
+THE MAN IS TH CMPUTER,25-34,"Yesterday, I spent my total paycheck buying everything behind the counter.",18-24,behind the counter the add up the total for today and yesterday .
+I enjoy riding my bike ion the cold weather.,25-34,My husband entered into a bike race.,18-24,bike riding in the cold is something i enjoy doing .
+My husband entered into a bike race.,18-24,I enjoy riding my bike ion the cold weather.,25-34,bike riding in the cold is something i enjoy doing .
+Some presents she did not understand though.,25-34,We brought a card signed by out friends.,45-54,birthday woman drinking some water because of the talking
+We brought a card signed by out friends.,45-54,Some presents she did not understand though.,25-34,birthday woman drinking some water because of the talking
+Which ranges from ward to spirits and rings.,35-44,Next I admire the braceletts.,18-24,bracelets | charms and rings to ward off evil spirits | or bring good luck .
+Next I admire the braceletts.,18-24,Which ranges from ward to spirits and rings.,35-44,bracelets | charms and rings to ward off evil spirits | or bring good luck .
+The level of detail on the buildings is unbelievable.,18-24,To tour buildings like this is the best past time ever.,45-54,buildings today would benefit from this level of detail .
+To tour buildings like this is the best past time ever.,45-54,The level of detail on the buildings is unbelievable.,18-24,buildings today would benefit from this level of detail .
+IT IS A BIRD,25-34,"So she found a nice spot where she could be alone, but she stayed close to the humans to watch for stray french fries.",45-54,but he got really close .
+"So she found a nice spot where she could be alone, but she stayed close to the humans to watch for stray french fries.",45-54,IT IS A BIRD,25-34,but he got really close .
+The race was coming to an end as the runners came down the mountain,35-44,They had all trained hard for the race,18-24,but i trained hard for this .
+They had all trained hard for the race,18-24,The race was coming to an end as the runners came down the mountain,35-44,but i trained hard for this .
+Some murals are painted on buildings.,18-24,The painted murals and buildings were everywhere.,25-34,but the buildings were painted in murals .
+The painted murals and buildings were everywhere.,25-34,Some murals are painted on buildings.,18-24,but the buildings were painted in murals .
+The candle lanterns placed on the ground formed a walking trail.,55-74,The lights formed paths on the ground,25-34,candles formed paths along the ground .
+The lights formed paths on the ground,25-34,The candle lanterns placed on the ground formed a walking trail.,55-74,candles formed paths along the ground .
+There is always a lot of good food.,18-24,Everyone provided food and there was enough for all to have generous portions.,55-74,catering provided generous portions for dinner .
+Everyone provided food and there was enough for all to have generous portions.,55-74,There is always a lot of good food.,18-24,catering provided generous portions for dinner .
+"First place poses in front of the camera, happy with his effort.",18-24,There could be only one winner.,35-44,coming in second place he was n't very happy with his performance .
+There could be only one winner.,35-44,"First place poses in front of the camera, happy with his effort.",18-24,coming in second place he was n't very happy with his performance .
+Most of the people are wearing ribbons to symbolize pride in their heritage.,35-44,People showed their pride by wearing ribbons,18-24,even the policemen were wearing their ribbons with pride .
+People showed their pride by wearing ribbons,18-24,Most of the people are wearing ribbons to symbolize pride in their heritage.,35-44,even the policemen were wearing their ribbons with pride .
+I woke up to this sight on christmas eve.,25-34,It snow just in time for Christmas.,45-54,everybody asks for a white christmas | right ?
+It snow just in time for Christmas.,45-54,I woke up to this sight on christmas eve.,25-34,everybody asks for a white christmas | right ?
+These drums sure are fun.,35-44,IT IS A DRUM,25-34,everyday he could play the drums faster and faster
+IT IS A DRUM,25-34,These drums sure are fun.,35-44,everyday he could play the drums faster and faster
+These drums sure are fun.,35-44,"He enjoys finding new songs to play, working on playing faster and better everyday.",18-24,everyday he could play the drums faster and faster
+"He enjoys finding new songs to play, working on playing faster and better everyday.",18-24,These drums sure are fun.,35-44,everyday he could play the drums faster and faster
+IT IS A DRUM,25-34,"He enjoys finding new songs to play, working on playing faster and better everyday.",18-24,everyday he could play the drums faster and faster
+"He enjoys finding new songs to play, working on playing faster and better everyday.",18-24,IT IS A DRUM,25-34,everyday he could play the drums faster and faster
+"The boy's parents was a little late, so they tried to catch up.",55-74,"I had a good time looking at the cars, it was a lot of fun.",25-34,everyone had a fun time looking at the old cars .
+"I had a good time looking at the cars, it was a lot of fun.",25-34,"The boy's parents was a little late, so they tried to catch up.",55-74,everyone had a fun time looking at the old cars .
+We decided to make a cake today.,25-34,Some people say icing is the best part of a cake.,45-54,everyone int he family loves when grandma makes her chocolate lamb .
+Some people say icing is the best part of a cake.,45-54,We decided to make a cake today.,25-34,everyone int he family loves when grandma makes her chocolate lamb .
+The next guy has on a mask at the party.,25-34,I didn't have time to get a costume.,35-44,everyone showed up in a costume .
+I didn't have time to get a costume.,35-44,The next guy has on a mask at the party.,25-34,everyone showed up in a costume .
+The sheer size of some of the buildings is breathtaking.,25-34,She loved all the windows in the beautiful church.,45-54,everything about them is interesting .
+She loved all the windows in the beautiful church.,45-54,The sheer size of some of the buildings is breathtaking.,25-34,everything about them is interesting .
+Traffic had to be rerouted.,25-34,I felt like a spectacle in my little yellow european car.,18-24,finding a parking place so we could watch the parade was not an easy task .
+I felt like a spectacle in my little yellow european car.,18-24,Traffic had to be rerouted.,25-34,finding a parking place so we could watch the parade was not an easy task .
+We met up with friends to decide where to go.,35-44,I met up with some friends.,55-74,four friends like to ride their bikes on the weekend .
+I met up with some friends.,55-74,We met up with friends to decide where to go.,35-44,four friends like to ride their bikes on the weekend .
+I went into town to spend money on gifts.,25-34,Keep following the steps for a nice surpise.,35-44,gardens are beautiful gifts to a town that make for a great way to spend an afternoon .
+Keep following the steps for a nice surpise.,35-44,I went into town to spend money on gifts.,25-34,gardens are beautiful gifts to a town that make for a great way to spend an afternoon .
+The sun started to set and it made a strange glare that wasn't good for filming.,18-24,They where waiting for the perfect wind and glare of lights.,45-54,getting the cameras set up was one of the easier parts | adjusting for glare and wind was exceptionally difficult | though .
+They where waiting for the perfect wind and glare of lights.,45-54,The sun started to set and it made a strange glare that wasn't good for filming.,18-24,getting the cameras set up was one of the easier parts | adjusting for glare and wind was exceptionally difficult | though .
+I walked along the street and checked out the market place vendors selling all sorts of unique clothes and jewelry.,18-24,He had a great time on the hike.,25-34,going to the open market was invigorating and fun .
+He had a great time on the hike.,25-34,I walked along the street and checked out the market place vendors selling all sorts of unique clothes and jewelry.,18-24,going to the open market was invigorating and fun .
+Brad is better than most males when it comes to remembering  birthdays so he was sure to get a selfie with his grandma on her birhday.,35-44,This male visited his grandma for his birthday.,25-34,grandma [male] on her 55th birthday | still looking young !
+This male visited his grandma for his birthday.,25-34,Brad is better than most males when it comes to remembering  birthdays so he was sure to get a selfie with his grandma on her birhday.,35-44,grandma [male] on her 55th birthday | still looking young !
+The dog was ready to go.,25-34,My mom pointed out other things to her.,45-54,grandma helped point things out to her for a while .
+My mom pointed out other things to her.,45-54,The dog was ready to go.,25-34,grandma helped point things out to her for a while .
+His parents and his friends gathered for a day of play to celebrate.,18-24,"There was a really cool ballbit where Pablo and Maria were playing, Carlos liked Maria a lot.",35-44,he and friends have gathered to play and celebrate with him .
+"There was a really cool ballbit where Pablo and Maria were playing, Carlos liked Maria a lot.",35-44,His parents and his friends gathered for a day of play to celebrate.,18-24,he and friends have gathered to play and celebrate with him .
+They started drinking beer and lost interest in cooking.,55-74,And was very happy to be in the field.,25-34,he immediately started handing out beers
+And was very happy to be in the field.,25-34,They started drinking beer and lost interest in cooking.,55-74,he immediately started handing out beers
+Here's another great photo OP with jerseys.,55-74,THE MAN WAS STAND,25-34,he loved looking at all their old jerseys .
+THE MAN WAS STAND,25-34,Here's another great photo OP with jerseys.,55-74,he loved looking at all their old jerseys .
+The female sister played with her brother at the stadium.,55-74,"At the next visit, Hank brought his little girl because girls played sports as well as boys.",45-54,he played ball with his sister [female] .
+"At the next visit, Hank brought his little girl because girls played sports as well as boys.",45-54,The female sister played with her brother at the stadium.,55-74,he played ball with his sister [female] .
+He really cares about his workers.,18-24,He truly cares about his workers.,25-34,he really cares for his workers .
+He truly cares about his workers.,25-34,He really cares about his workers.,18-24,he really cares for his workers .
+"Kurt was really in the mood, waving his sword to and fro.",25-34,He is definitely in the spirit.,35-44,he really got into the spirit .
+He is definitely in the spirit.,35-44,"Kurt was really in the mood, waving his sword to and fro.",25-34,he really got into the spirit .
+Suprise it's someone's special day.,25-34,At the party he received many fun gifts.,35-44,he received so many presents .
+At the party he received many fun gifts.,35-44,Suprise it's someone's special day.,25-34,he received so many presents .
+I parked my grey beat up old car and walked towards the chainlink fence.,18-24,You'll likely need to parallel park.,25-34,he then took his car and left home because he could not find his friend .
+You'll likely need to parallel park.,25-34,I parked my grey beat up old car and walked towards the chainlink fence.,18-24,he then took his car and left home because he could not find his friend .
+Needless to say our son was filled with woe as he watched us dig in to the delicious pie made with our harvested fresh fruit.,35-44,We'll save Duke a fruit tart just in case he decides to come home.,18-24,he wo n't get any pie .
+We'll save Duke a fruit tart just in case he decides to come home.,18-24,Needless to say our son was filled with woe as he watched us dig in to the delicious pie made with our harvested fresh fruit.,35-44,he wo n't get any pie .
+As we left we had a wonderful view of something we still remember to this day after 50 years of marriage...it was our first date.,35-44,IT IS BLACK AND WHITE IMAGE,25-34,here is a view of us leaving the fair .
+IT IS BLACK AND WHITE IMAGE,25-34,As we left we had a wonderful view of something we still remember to this day after 50 years of marriage...it was our first date.,35-44,here is a view of us leaving the fair .
+IT IS A ALSO A SKY,25-34,It was a nice break to take in this view of the lake.,35-44,here is the view from the other side of the lake .
+It was a nice break to take in this view of the lake.,35-44,IT IS A ALSO A SKY,25-34,here is the view from the other side of the lake .
+"Ever passionate, the protesters continue blocking the road.",25-34,They are stopping traffic to bring awareness to shed light on this serious matter.,45-54,here the protestors are blocking the road .
+They are stopping traffic to bring awareness to shed light on this serious matter.,45-54,"Ever passionate, the protesters continue blocking the road.",25-34,here the protestors are blocking the road .
+The two geese were great parents.,18-24,It worked and the day was saved!,25-34,however | it was all worth it | as nothing gave them more pride than watching their little guys grow up to be big | strong geese .
+It worked and the day was saved!,25-34,The two geese were great parents.,18-24,however | it was all worth it | as nothing gave them more pride than watching their little guys grow up to be big | strong geese .
+"Homes built during the Victorian era often contain stained glass, and we found a great example.",55-74,"""Why do we have to be forced to live in such ugly buildings with windows that block the world from coming in?"" Peter thought.",25-34,i 've always been a fan of stained glass so when i found out about this building i had to go .
+"""Why do we have to be forced to live in such ugly buildings with windows that block the world from coming in?"" Peter thought.",25-34,"Homes built during the Victorian era often contain stained glass, and we found a great example.",55-74,i 've always been a fan of stained glass so when i found out about this building i had to go .
+The man decided to take a trip to the city.,18-24,"Charlie, recently single, decided to go on a trip.",25-34,i decided to make a trip to the city .
+"Charlie, recently single, decided to go on a trip.",25-34,The man decided to take a trip to the city.,18-24,i decided to make a trip to the city .
+Getting all our gear out for our exploration of the WW11 ruins.,55-74,IT IS A CAR,25-34,i drove for hours until i finally got to the castle ruins .
+IT IS A CAR,25-34,Getting all our gear out for our exploration of the WW11 ruins.,55-74,i drove for hours until i finally got to the castle ruins .
+The winner was celebrated vigorously with rousing cheers and applause.,25-34,The end of the race was easy to find because of the colorful flags and race staff in bright yellow shirts.,55-74,i finished in tenth place .
+The end of the race was easy to find because of the colorful flags and race staff in bright yellow shirts.,55-74,The winner was celebrated vigorously with rousing cheers and applause.,25-34,i finished in tenth place .
+"It was a fun day overall, that ended with watching the sunset.",18-24,The sun set on a beautiful day.,55-74,i fun day came to an end | with an amazing sunset .
+The sun set on a beautiful day.,55-74,"It was a fun day overall, that ended with watching the sunset.",18-24,i fun day came to an end | with an amazing sunset .
+"Ralph, forever the lunatic prankster, sneaked to the casket, pulled a grass snake out of his pocket and watched it slither into the beautiful flowers.",45-54,The house was filled with a lot of flowers.,35-44,i gave them a lot of flowers .
+The house was filled with a lot of flowers.,35-44,"Ralph, forever the lunatic prankster, sneaked to the casket, pulled a grass snake out of his pocket and watched it slither into the beautiful flowers.",45-54,i gave them a lot of flowers .
+We had a great time.,25-34,We had a great time exploring and learning during our visit to the aquarium.,55-74,i had a great time there .
+We had a great time exploring and learning during our visit to the aquarium.,55-74,We had a great time.,25-34,i had a great time there .
+We had a great time.,25-34,"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,i had a great time there .
+"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,We had a great time.,25-34,i had a great time there .
+We had a great time.,25-34,I had a great time looking at all the cool cars.,25-34,i had a great time there .
+I had a great time looking at all the cool cars.,25-34,We had a great time.,25-34,i had a great time there .
+We had a great time.,25-34,The singing took a long time.,18-24,i had a great time there .
+The singing took a long time.,18-24,We had a great time.,25-34,i had a great time there .
+We had a great time.,25-34,Jerry wished he could stay there forever.,18-24,i had a great time there .
+Jerry wished he could stay there forever.,18-24,We had a great time.,25-34,i had a great time there .
+We had a great time exploring and learning during our visit to the aquarium.,55-74,"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,i had a great time there .
+"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,We had a great time exploring and learning during our visit to the aquarium.,55-74,i had a great time there .
+We had a great time exploring and learning during our visit to the aquarium.,55-74,I had a great time looking at all the cool cars.,25-34,i had a great time there .
+I had a great time looking at all the cool cars.,25-34,We had a great time exploring and learning during our visit to the aquarium.,55-74,i had a great time there .
+We had a great time exploring and learning during our visit to the aquarium.,55-74,The singing took a long time.,18-24,i had a great time there .
+The singing took a long time.,18-24,We had a great time exploring and learning during our visit to the aquarium.,55-74,i had a great time there .
+We had a great time exploring and learning during our visit to the aquarium.,55-74,Jerry wished he could stay there forever.,18-24,i had a great time there .
+Jerry wished he could stay there forever.,18-24,We had a great time exploring and learning during our visit to the aquarium.,55-74,i had a great time there .
+"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,I had a great time looking at all the cool cars.,25-34,i had a great time there .
+I had a great time looking at all the cool cars.,25-34,"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,i had a great time there .
+"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,The singing took a long time.,18-24,i had a great time there .
+The singing took a long time.,18-24,"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,i had a great time there .
+"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,Jerry wished he could stay there forever.,18-24,i had a great time there .
+Jerry wished he could stay there forever.,18-24,"Finally, take a note from our wildlife friends and hide from the solicitors of the world!",55-74,i had a great time there .
+I had a great time looking at all the cool cars.,25-34,The singing took a long time.,18-24,i had a great time there .
+The singing took a long time.,18-24,I had a great time looking at all the cool cars.,25-34,i had a great time there .
+I had a great time looking at all the cool cars.,25-34,Jerry wished he could stay there forever.,18-24,i had a great time there .
+Jerry wished he could stay there forever.,18-24,I had a great time looking at all the cool cars.,25-34,i had a great time there .
+The singing took a long time.,18-24,Jerry wished he could stay there forever.,18-24,i had a great time there .
+Jerry wished he could stay there forever.,18-24,The singing took a long time.,18-24,i had a great time there .
+IT IS A NICE PLACE,25-34,We met his neighbors and helped with the effort of crafting the gardens.,45-54,i have never met someone who puts so much effort into her craft .
+We met his neighbors and helped with the effort of crafting the gardens.,45-54,IT IS A NICE PLACE,25-34,i have never met someone who puts so much effort into her craft .
+It was a beautiful day for him.,25-34,"Travel to the race went smoothly, and after his registration it was time to begin, so he ran",18-24,i helped make sure the kids marathon ran smoothly | as they gathered at registration .
+"Travel to the race went smoothly, and after his registration it was time to begin, so he ran",18-24,It was a beautiful day for him.,25-34,i helped make sure the kids marathon ran smoothly | as they gathered at registration .
+everybody joined yoga free,25-34,The participants stretched and enjoyed their free lessons.,35-44,i joined in one of the free yoga exhibitions .
+The participants stretched and enjoyed their free lessons.,35-44,everybody joined yoga free,25-34,i joined in one of the free yoga exhibitions .
+we were talking about relationships and marriage,18-24,These individuals represent love in a commited relationship and rally for equal rights of all.,35-44,i nearly cried when talking to [male] and [male] . despite being in a committed relationship for 37 years | they still have n't been able to marry in their home state .
+These individuals represent love in a commited relationship and rally for equal rights of all.,35-44,we were talking about relationships and marriage,18-24,i nearly cried when talking to [male] and [male] . despite being in a committed relationship for 37 years | they still have n't been able to marry in their home state .
+"One odd, modern building appeared half realized, strange and we figured it was some architect's vision of the future.",45-54,IT IS A COLOURFUL FIREWORKS,25-34,i never figured out what half the strange little buildings were ever for .
+IT IS A COLOURFUL FIREWORKS,25-34,"One odd, modern building appeared half realized, strange and we figured it was some architect's vision of the future.",45-54,i never figured out what half the strange little buildings were ever for .
+He went in to meet other racers.,25-34,As he enters the building he sees groups of people already in progress of of registering for the marathon,55-74,i quickly went to registration and signed in ...
+As he enters the building he sees groups of people already in progress of of registering for the marathon,55-74,He went in to meet other racers.,25-34,i quickly went to registration and signed in ...
+"When all else fails, try dancing to break the ice.",18-24,And look at Momma dance!,55-74,i really got into the spirit and started dancing in the kitchen .
+And look at Momma dance!,55-74,"When all else fails, try dancing to break the ice.",18-24,i really got into the spirit and started dancing in the kitchen .
+There was a building in what looks like Europe.,18-24,left. Set off of a stroll through the hilly neighborhood.,55-74,i spent some time walking around town yesterday .
+left. Set off of a stroll through the hilly neighborhood.,55-74,There was a building in what looks like Europe.,18-24,i spent some time walking around town yesterday .
+"I hope we don't miss our turn, the roads are empty.",25-34,I miss those empty roads when I am away.,18-24,i sure do miss the empty roads . nothing like this in the big city .
+I miss those empty roads when I am away.,18-24,"I hope we don't miss our turn, the roads are empty.",25-34,i sure do miss the empty roads . nothing like this in the big city .
+Since the museum was small I stopped for a picture on the way out.,55-74,People are browsing just like me.,25-34,i took a quick picture in the fashion section..
+People are browsing just like me.,25-34,Since the museum was small I stopped for a picture on the way out.,55-74,i took a quick picture in the fashion section..
+"Oh man, I am so glad we're finally here at this coolest vacation place of all!",55-74,"For the weekend, we went on vacation.",25-34,i went on vacation last weekend .
+"For the weekend, we went on vacation.",25-34,"Oh man, I am so glad we're finally here at this coolest vacation place of all!",55-74,i went on vacation last weekend .
+"Oh man, I am so glad we're finally here at this coolest vacation place of all!",55-74,The upcoming weekend meant the start of vacation for the woman.,18-24,i went on vacation last weekend .
+The upcoming weekend meant the start of vacation for the woman.,18-24,"Oh man, I am so glad we're finally here at this coolest vacation place of all!",55-74,i went on vacation last weekend .
+"For the weekend, we went on vacation.",25-34,The upcoming weekend meant the start of vacation for the woman.,18-24,i went on vacation last weekend .
+The upcoming weekend meant the start of vacation for the woman.,18-24,"For the weekend, we went on vacation.",25-34,i went on vacation last weekend .
+For their wedding they had a female officient.,18-24,My friend's wedding is going to have a mid-century theme.,55-74,i went to my friend 's wedding .
+My friend's wedding is going to have a mid-century theme.,55-74,For their wedding they had a female officient.,18-24,i went to my friend 's wedding .
+The barrier islands are visible from the beach.,45-54,IT IS A SEA,25-34,i went to the beach last weekend .
+IT IS A SEA,25-34,The barrier islands are visible from the beach.,45-54,i went to the beach last weekend .
+He had a great time on the hike.,25-34,Together the people protested the rights of immigrants everywhere.,35-44,immigrants protested for human rights .
+Together the people protested the rights of immigrants everywhere.,35-44,He had a great time on the hike.,25-34,immigrants protested for human rights .
+Before the may arrived to enlighten the crowd.,18-24,A speech was given to the people by the mayor.,25-34,important people such as the mayor gave a speech to everyone present .
+A speech was given to the people by the mayor.,25-34,Before the may arrived to enlighten the crowd.,18-24,important people such as the mayor gave a speech to everyone present .
+She insisted on riding in the middle of the carousel on the spotted leopard.,45-54,They've been spotted in the middle of the carousel.,18-24,in the middle of looking at all the animals | we spotted a carousel and she just had to get on it .
+They've been spotted in the middle of the carousel.,18-24,She insisted on riding in the middle of the carousel on the spotted leopard.,45-54,in the middle of looking at all the animals | we spotted a carousel and she just had to get on it .
+There were several people near the race track.,55-74,"Basically, if you love cars and you love racing then you'll love it here because I do!",25-34,it 's a race track but for rc cars .
+"Basically, if you love cars and you love racing then you'll love it here because I do!",25-34,There were several people near the race track.,55-74,it 's a race track but for rc cars .
+Friends smile at the male who celebrates.,18-24,This proud male worker is all smiles as he beams and celebrates with his co-workers.,45-54,it 's all smiles as [male] celebrates his award .
+This proud male worker is all smiles as he beams and celebrates with his co-workers.,45-54,Friends smile at the male who celebrates.,18-24,it 's all smiles as [male] celebrates his award .
+The idea of the risks were stranded.,Under12,IT IS A SNOW,25-34,it 's not a good idea to take risks and get yourself stranded in the cold .
+IT IS A SNOW,25-34,The idea of the risks were stranded.,Under12,it 's not a good idea to take risks and get yourself stranded in the cold .
+We saw as much as we could but one day and night wasn't enough to see it all.,35-44,We stayed until it was night enjoying our day in the city.,25-34,it was a great day in the city | which looks even more beautiful at night !
+We stayed until it was night enjoying our day in the city.,25-34,We saw as much as we could but one day and night wasn't enough to see it all.,35-44,it was a great day in the city | which looks even more beautiful at night !
+we went on a trail in the smokey mountains.,25-34,He started out on the trail.,25-34,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+He started out on the trail.,25-34,we went on a trail in the smokey mountains.,25-34,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+we went on a trail in the smokey mountains.,25-34,The trooper rejected and continued to walk through the woods with its' treks and his various sessions of rest.,18-24,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+The trooper rejected and continued to walk through the woods with its' treks and his various sessions of rest.,18-24,we went on a trail in the smokey mountains.,25-34,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+He started out on the trail.,25-34,The trooper rejected and continued to walk through the woods with its' treks and his various sessions of rest.,18-24,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+The trooper rejected and continued to walk through the woods with its' treks and his various sessions of rest.,18-24,He started out on the trail.,25-34,it was a hard trek up through the woods . but all those cardio sessions really paid off .
+I had a lot of fun,25-34,There was plenty of games to play.,25-34,it was a lot of fun .
+There was plenty of games to play.,25-34,I had a lot of fun,25-34,it was a lot of fun .
+I had a lot of fun,25-34,It was so much fun to watch the sunset and just see how beautiful everything is.,18-24,it was a lot of fun .
+It was so much fun to watch the sunset and just see how beautiful everything is.,18-24,I had a lot of fun,25-34,it was a lot of fun .
+There was plenty of games to play.,25-34,It was so much fun to watch the sunset and just see how beautiful everything is.,18-24,it was a lot of fun .
+It was so much fun to watch the sunset and just see how beautiful everything is.,18-24,There was plenty of games to play.,25-34,it was a lot of fun .
+The parade was a very moving site.,25-34,At the conclusion of the ceremony we show respect or our nation and military branches.,35-44,it was a moving sight .
+At the conclusion of the ceremony we show respect or our nation and military branches.,35-44,The parade was a very moving site.,25-34,it was a moving sight .
+It was time to receive the awards.,25-34,"During this time of the year,our employers gives out our deserving awards.",18-24,it was time to award the ones that were deserving .
+"During this time of the year,our employers gives out our deserving awards.",18-24,It was time to receive the awards.,25-34,it was time to award the ones that were deserving .
+The street was filled with kids.,18-24,The kids are so happy for this fun time.,35-44,last but not least | the kids made their way down the street .
+The kids are so happy for this fun time.,35-44,The street was filled with kids.,18-24,last but not least | the kids made their way down the street .
+I told my husband to look at those tiny windows in that building.,55-74,Their hotel had an amazing view.,18-24,later that day | i told my husband that i wanted to become an artist | so i took this amazing photo of two tiny windows .
+Their hotel had an amazing view.,18-24,I told my husband to look at those tiny windows in that building.,55-74,later that day | i told my husband that i wanted to become an artist | so i took this amazing photo of two tiny windows .
+Our caravan of cyclists stopped to rest every so often.,25-34,Many others joined us.,35-44,lining up for the beginning of the race .
+Many others joined us.,35-44,Our caravan of cyclists stopped to rest every so often.,25-34,lining up for the beginning of the race .
+IT IS A SMALL GIRL,25-34,My little sister love the art the most.,45-54,little [female] looked at the art like it was the best thing she ever seen .
+My little sister love the art the most.,45-54,IT IS A SMALL GIRL,25-34,little [female] looked at the art like it was the best thing she ever seen .
+Then a casket came out of the car and I was aware that it was a funeral.,18-24,The final send-off was very somber as modern military members guided the procession.,25-34,military salute and guards stand at attention to pay respects of royal 's body arriving at funeral .
+The final send-off was very somber as modern military members guided the procession.,25-34,Then a casket came out of the car and I was aware that it was a funeral.,18-24,military salute and guards stand at attention to pay respects of royal 's body arriving at funeral .
+THE MAN WAS SPEECH,25-34,"Oh well, what can you do?",55-74,mr. thorne listens intently as audience members praised his writing skills and how his books have changed their lives .
+"Oh well, what can you do?",55-74,THE MAN WAS SPEECH,25-34,mr. thorne listens intently as audience members praised his writing skills and how his books have changed their lives .
+So hopeful about the future.,35-44,My friend had actually completed her Masters' Degree in Computer Science!,18-24,my best friend is has completer her masters !
+My friend had actually completed her Masters' Degree in Computer Science!,18-24,So hopeful about the future.,35-44,my best friend is has completer her masters !
+This guy was fulfilling his obligations as a boyfriend by spending some extra time with his girlfriend.,35-44,Strangers stop and take selfies with the Gods of the Beach.,45-54,my boyfriend and i needed this time away from work and obligations .
+Strangers stop and take selfies with the Gods of the Beach.,45-54,This guy was fulfilling his obligations as a boyfriend by spending some extra time with his girlfriend.,35-44,my boyfriend and i needed this time away from work and obligations .
+Jeremy and his brother played music with the band.,45-54,The band practiced everyday.,18-24,my brother and his band got together to show me some of their new music .
+The band practiced everyday.,18-24,Jeremy and his brother played music with the band.,45-54,my brother and his band got together to show me some of their new music .
+So there's this really cool place I've been frequenting lately.,25-34,The store was open for business.,55-74,my friend opened up a new store in town called buzz-a-rama .
+The store was open for business.,55-74,So there's this really cool place I've been frequenting lately.,25-34,my friend opened up a new store in town called buzz-a-rama .
+The library was a close knit community.,25-34,They told the location to grandma.,18-24,my grandma told me about our family coming over to location .
+They told the location to grandma.,18-24,The library was a close knit community.,25-34,my grandma told me about our family coming over to location .
+IT IS A STONES,25-34,My husband was especially impressed by this picture.,18-24,my husband was amazed by this picture .
+My husband was especially impressed by this picture.,18-24,IT IS A STONES,25-34,my husband was amazed by this picture .
+In our neighborhood the holiday light up has begun.,45-54,I like driving through the neighborhoods during the holidays.,55-74,my neighborhood always has amazing lights during the holidays .
+I like driving through the neighborhoods during the holidays.,55-74,In our neighborhood the holiday light up has begun.,45-54,my neighborhood always has amazing lights during the holidays .
+"Annie made a beautiful wife, beaming beside her husband.",45-54,Ashley was overwhelmed with emotions as her father walked her down the aisle.,25-34,my new wife looks so beautiful !
+Ashley was overwhelmed with emotions as her father walked her down the aisle.,25-34,"Annie made a beautiful wife, beaming beside her husband.",45-54,my new wife looks so beautiful !
+The roommates are busy in the kitchen preparing for the party.,55-74,A couple was preparing a mean for a party,25-34,my roommate prepared the food for our christmas party .
+A couple was preparing a mean for a party,25-34,The roommates are busy in the kitchen preparing for the party.,55-74,my roommate prepared the food for our christmas party .
+We celebrated with several dishes of food.,35-44,The young son of the cook was however ready to eat a meal.,45-54,my son made a great meal for everybody .
+The young son of the cook was however ready to eat a meal.,45-54,We celebrated with several dishes of food.,35-44,my son made a great meal for everybody .
+It was surrounding a sharp river.,18-24,We explored and hiked the surrounding area and found a sharp bend in the river.,25-34,nearby was a river that flowed into the ocean | and surrounding it was sharp cliffs and hills .
+We explored and hiked the surrounding area and found a sharp bend in the river.,25-34,It was surrounding a sharp river.,18-24,nearby was a river that flowed into the ocean | and surrounding it was sharp cliffs and hills .
+After the baby was sleeping they invited guests over.,45-54,We needed drinks after we finished.,18-24,next | my husband brought through some fresh beer .
+We needed drinks after we finished.,18-24,After the baby was sleeping they invited guests over.,45-54,next | my husband brought through some fresh beer .
+Everyone likes to drive but it makes the pollution worse.,25-34,The citizens who like to drive increase pollution.,18-24,no one likes pollution but everyone likes to drive cars .
+The citizens who like to drive increase pollution.,18-24,Everyone likes to drive but it makes the pollution worse.,25-34,no one likes pollution but everyone likes to drive cars .
+I get my job done early in the day.,25-34,"I am really staring to hate this job, who did this ugly wiring.",35-44,ok | down to work got ta make sure all these wires go right or we 're in big trouble .
+"I am really staring to hate this job, who did this ugly wiring.",35-44,I get my job done early in the day.,25-34,ok | down to work got ta make sure all these wires go right or we 're in big trouble .
+He had fun and commented as such.,45-54,I commented to the people hanging with me how much fun it was.,18-24,on his way back | he commented that this was the most fun he 's had in quite a while .
+I commented to the people hanging with me how much fun it was.,18-24,He had fun and commented as such.,45-54,on his way back | he commented that this was the most fun he 's had in quite a while .
+"Riding down the hills, she avoided all the trees successfully.",18-24,THE TREE IS FULL OF SNOW,25-34,on my way down trying to avoid the trees
+THE TREE IS FULL OF SNOW,25-34,"Riding down the hills, she avoided all the trees successfully.",18-24,on my way down trying to avoid the trees
+"Riding down the hills, she avoided all the trees successfully.",18-24,The snowfall on the ground was picturesque.,18-24,on my way down trying to avoid the trees
+The snowfall on the ground was picturesque.,18-24,"Riding down the hills, she avoided all the trees successfully.",18-24,on my way down trying to avoid the trees
+THE TREE IS FULL OF SNOW,25-34,The snowfall on the ground was picturesque.,18-24,on my way down trying to avoid the trees
+The snowfall on the ground was picturesque.,18-24,THE TREE IS FULL OF SNOW,25-34,on my way down trying to avoid the trees
+Off to work again.,35-44,I commute to work everyday taking the bus.,55-74,on my way to work taking this long commute everyday .
+I commute to work everyday taking the bus.,55-74,Off to work again.,35-44,on my way to work taking this long commute everyday .
+"From a distance, as we sailed into port, the city skyline was magnificent.",55-74,The Pandemonium docked safely in the harbor.,25-34,once they docked it would be pandemonium .
+The Pandemonium docked safely in the harbor.,25-34,"From a distance, as we sailed into port, the city skyline was magnificent.",55-74,once they docked it would be pandemonium .
+The tired bikers takes a break.,55-74,It was an exhausting event for all.,25-34,one of the bikers is very tired and takes a break .
+It was an exhausting event for all.,25-34,The tired bikers takes a break.,55-74,one of the bikers is very tired and takes a break .
+We visited the ruins,18-24,We took a tropical vacation this year.,25-34,our sight seeing group visited this old village | it was a blast .
+We took a tropical vacation this year.,25-34,We visited the ruins,18-24,our sight seeing group visited this old village | it was a blast .
+They looked at each other with admiration and respect.,45-54,The dog was ready to go.,25-34,people from all around the world meet for the first time .
+The dog was ready to go.,25-34,They looked at each other with admiration and respect.,45-54,people from all around the world meet for the first time .
+The people walking the streets wore masks to protect themselves from the smog.,18-24,IT IS A BUILDING,25-34,people tried -- -the painted areas along the streets were colorful | but the smog always hung in the air .
+IT IS A BUILDING,25-34,The people walking the streets wore masks to protect themselves from the smog.,18-24,people tried -- -the painted areas along the streets were colorful | but the smog always hung in the air .
+Commencement Day has finally arrived and the Valedictorian checks the program order with the grand marshal.,55-74,The graduate spoke to her professor about the upcoming graduation.,18-24,professor phallange is showing me my degree .
+The graduate spoke to her professor about the upcoming graduation.,18-24,Commencement Day has finally arrived and the Valedictorian checks the program order with the grand marshal.,55-74,professor phallange is showing me my degree .
+"I had my first taste of non american food, and it was delicious!",18-24,He had a great time on the hike.,25-34,she always enjoyed a pasta and bean dish while at the market . it was a perfect end to a shopping spree .
+He had a great time on the hike.,25-34,"I had my first taste of non american food, and it was delicious!",18-24,she always enjoyed a pasta and bean dish while at the market . it was a perfect end to a shopping spree .
+His mom was so proud of him.,25-34,The C.E.O quietly observes a training,35-44,she demonstrated an idea for the leader .
+The C.E.O quietly observes a training,35-44,His mom was so proud of him.,25-34,she demonstrated an idea for the leader .
+Now I was ready to fight.,25-34,Then I got ready for my class.,35-44,she is practicing tae kwon do in a sparkling clean outfit .
+Then I got ready for my class.,35-44,Now I was ready to fight.,25-34,she is practicing tae kwon do in a sparkling clean outfit .
+I got myself a little green frog as a suvenir.,25-34,Canny hawkers took advantage and sold souvenirs right on the road!,45-54,small souvenirs are sold along the road .
+Canny hawkers took advantage and sold souvenirs right on the road!,45-54,I got myself a little green frog as a suvenir.,25-34,small souvenirs are sold along the road .
+"Anything can happen, like angels appearing in the coliseum.",45-54,The two girls smile happily to the camera.,25-34,so much to see
+The two girls smile happily to the camera.,25-34,"Anything can happen, like angels appearing in the coliseum.",45-54,so much to see
+"Anything can happen, like angels appearing in the coliseum.",45-54,The one depicting Daniel in the lion's den was especially moving.,35-44,so much to see
+The one depicting Daniel in the lion's den was especially moving.,35-44,"Anything can happen, like angels appearing in the coliseum.",45-54,so much to see
+The two girls smile happily to the camera.,25-34,The one depicting Daniel in the lion's den was especially moving.,35-44,so much to see
+The one depicting Daniel in the lion's den was especially moving.,35-44,The two girls smile happily to the camera.,25-34,so much to see
+Another man also discovers the camera.,25-34,I have no idea what my brother is trying to say to the camera,55-74,so was geraldo .
+I have no idea what my brother is trying to say to the camera,55-74,Another man also discovers the camera.,25-34,so was geraldo .
+A wall is decorated with graffiti.,18-24,Okay after this I should be arriving at my destination!!.,25-34,some of the art was just grafitti | though .
+Okay after this I should be arriving at my destination!!.,25-34,A wall is decorated with graffiti.,18-24,some of the art was just grafitti | though .
+Maybe living by a bridge is not so ideal.,18-24,The buildings are located right by the park.,35-44,some of the buildings have a little park next to them .
+The buildings are located right by the park.,35-44,Maybe living by a bridge is not so ideal.,18-24,some of the buildings have a little park next to them .
+The politician discusses his decision.,25-34,The chairman explained passionately why the company needed to join the merger.,35-44,some of the politicians were greedy .
+The chairman explained passionately why the company needed to join the merger.,35-44,The politician discusses his decision.,25-34,some of the politicians were greedy .
+The winners received trophies.,35-44,The winning team even got trophies!,25-34,some of them won trophies for winning .
+The winning team even got trophies!,25-34,The winners received trophies.,35-44,some of them won trophies for winning .
+Everyone seemed to be taking pictures by the end of it.,18-24,The people have a lot to drink.,35-44,some people had a lot to drink .
+The people have a lot to drink.,35-44,Everyone seemed to be taking pictures by the end of it.,18-24,some people had a lot to drink .
+Many racers competed in the event in downtown as the spectators cheered.,35-44,The racers are taking off in the race right now!,18-24,some racers were in excellent form and taking the race very seriously .
+The racers are taking off in the race right now!,18-24,Many racers competed in the event in downtown as the spectators cheered.,35-44,some racers were in excellent form and taking the race very seriously .
+Some of the speakers were fairly famous.,45-54,Some of the speakers were actually pretty famous.,35-44,some speakers were pretty famous .
+Some of the speakers were actually pretty famous.,35-44,Some of the speakers were fairly famous.,45-54,some speakers were pretty famous .
+This building looks very old and looks like a jail to me.,45-54,The first structures were plain with no embellishment.,25-34,some structures are plain with a few arches for embellishment .
+The first structures were plain with no embellishment.,25-34,This building looks very old and looks like a jail to me.,45-54,some structures are plain with a few arches for embellishment .
+"After drinking too much wine, Sara decided to go for a walk.",45-54,There were several interesting looking bottles of spirits,35-44,sometimes drinking can lead to silly things . while some could be funny | others could be really scary .
+There were several interesting looking bottles of spirits,35-44,"After drinking too much wine, Sara decided to go for a walk.",45-54,sometimes drinking can lead to silly things . while some could be funny | others could be really scary .
+Ofcourse these two are always the jokesters.,55-74,Everybody is buuzed enough to start dancing.,35-44,soon he was able to get everyone to laugh and have a good time .
+Everybody is buuzed enough to start dancing.,35-44,Ofcourse these two are always the jokesters.,55-74,soon he was able to get everyone to laugh and have a good time .
+Even pilots schedule time to play.,55-74,"Here's a picture of my mom, my husband and the pilot.",45-54,soon | however | it would be time to get back to work . but since he was a pilot | [male] knew his schedule would soon bring him back to location location .
+"Here's a picture of my mom, my husband and the pilot.",45-54,Even pilots schedule time to play.,55-74,soon | however | it would be time to get back to work . but since he was a pilot | [male] knew his schedule would soon bring him back to location location .
+Back on the network and printed out the documents.,45-54,"While I was attempting to fix the internet connection, my printer started printing a ton of random documents without any prompts and I thought, when is this day going to end?",35-44,started actual work by printing some documents that came up in the copy room printer .
+"While I was attempting to fix the internet connection, my printer started printing a ton of random documents without any prompts and I thought, when is this day going to end?",35-44,Back on the network and printed out the documents.,45-54,started actual work by printing some documents that came up in the copy room printer .
+At the Christmas reception a guest started eating cherry tomatoes.,55-74,One of the guests can't get enough of the tomatoes.,25-34,starting the tomato eating contest .
+One of the guests can't get enough of the tomatoes.,25-34,At the Christmas reception a guest started eating cherry tomatoes.,55-74,starting the tomato eating contest .
+Grandpa gave a moving speech about baby Beverly.,35-44,Afterwards they went right into the service,25-34,the baby 's grandpa got up to make a speech .
+Afterwards they went right into the service,25-34,Grandpa gave a moving speech about baby Beverly.,35-44,the baby 's grandpa got up to make a speech .
+Today were getting away to a tropical location,35-44,IT IS A BUILDINGS,25-34,the beach was beautiful | as were the houses along it .
+IT IS A BUILDINGS,25-34,Today were getting away to a tropical location,35-44,the beach was beautiful | as were the houses along it .
+We had a party for a friend.,45-54,She is rocking her two piece party outfit and loving it.,25-34,the belly dancer arrived for her first lesson of the day .
+She is rocking her two piece party outfit and loving it.,25-34,We had a party for a friend.,45-54,the belly dancer arrived for her first lesson of the day .
+Her hands shook with anticipation at the moment she moved her tassel.,45-54,"Graduation was a long awaited milestone and it was also long awaited for the students to hear there last name called, notifying them to walk across the stage.",18-24,the big moment was here .
+"Graduation was a long awaited milestone and it was also long awaited for the students to hear there last name called, notifying them to walk across the stage.",18-24,Her hands shook with anticipation at the moment she moved her tassel.,45-54,the big moment was here .
+There was a center piece that was so majestic and it illuminated the entire room.,18-24,He thought he would set a romantic ambiance by lighting a fire.,35-44,the bonfire was majestic and illuminated the entire area !
+He thought he would set a romantic ambiance by lighting a fire.,35-44,There was a center piece that was so majestic and it illuminated the entire room.,18-24,the bonfire was majestic and illuminated the entire area !
+"The bride looked beautiful, and the groom couldn't stop smiling at the sight of her.",25-34,The bride looked beautiful.,55-74,the bride looked beautiful .
+The bride looked beautiful.,55-74,"The bride looked beautiful, and the groom couldn't stop smiling at the sight of her.",25-34,the bride looked beautiful .
+She watched as the bride was walked down the aisle by the bride's father.,25-34,My attention shifted as the bride and her father walked down the isle.,35-44,the brides father walked her down the isle
+My attention shifted as the bride and her father walked down the isle.,35-44,She watched as the bride was walked down the aisle by the bride's father.,25-34,the brides father walked her down the isle
+This city was spectacular with gorgeous buildings.,35-44,I came across this view of this spectacular building in the city.,18-24,the building of the city were spectacular .
+I came across this view of this spectacular building in the city.,18-24,This city was spectacular with gorgeous buildings.,35-44,the building of the city were spectacular .
+A tour bus took us through Chinatown.,18-24,It's a hip and a hop to the mall on this awesome bunny bus!,45-54,the bus with rabbits was going
+It's a hip and a hop to the mall on this awesome bunny bus!,45-54,A tour bus took us through Chinatown.,18-24,the bus with rabbits was going
+"They eventually pulled themselves away from the main floor to cut the cake, marking the end of a touching day.",35-44,They finish off the celebration with cake and drinks.,25-34,the cake was also very good .
+They finish off the celebration with cake and drinks.,25-34,"They eventually pulled themselves away from the main floor to cut the cake, marking the end of a touching day.",35-44,the cake was also very good .
+The festival of candles has begun.,35-44,The Wass is a spectacular festival,25-34,the chinese festival wass spectacular .
+The Wass is a spectacular festival,25-34,The festival of candles has begun.,35-44,the chinese festival wass spectacular .
+IT IS A BUILDING,25-34,Today we started the refubishing of my family cottage.,45-54,the construction has started on refurbishing the old cottage .
+Today we started the refubishing of my family cottage.,45-54,IT IS A BUILDING,25-34,the construction has started on refurbishing the old cottage .
+"However, the crew was glad to be home.",25-34,We were most concerned about docking .,55-74,the crew was always glad to get back home .
+We were most concerned about docking .,55-74,"However, the crew was glad to be home.",25-34,the crew was always glad to get back home .
+"However, the crew was glad to be home.",25-34,The crew was glad to go home.,18-24,the crew was always glad to get back home .
+The crew was glad to go home.,18-24,"However, the crew was glad to be home.",25-34,the crew was always glad to get back home .
+We were most concerned about docking .,55-74,The crew was glad to go home.,18-24,the crew was always glad to get back home .
+The crew was glad to go home.,18-24,We were most concerned about docking .,55-74,the crew was always glad to get back home .
+The world is ready for the race.,55-74,"He ran across the bridge—slowly, as there were lots of beautiful women.",25-34,the cycling portion of the race is my favorite part and it attracts some of the best athletes in the world so one has to be ready for the challenge because there are plenty to compete against .
+"He ran across the bridge—slowly, as there were lots of beautiful women.",25-34,The world is ready for the race.,55-74,the cycling portion of the race is my favorite part and it attracts some of the best athletes in the world so one has to be ready for the challenge because there are plenty to compete against .
+ll the destruction from the floods was to be anticipated.,25-34,"All along we knew there could be major destruction caused by the rain storm, so many people had anticipated it.",45-54,the destruction was more than i had anticipated .
+"All along we knew there could be major destruction caused by the rain storm, so many people had anticipated it.",45-54,ll the destruction from the floods was to be anticipated.,25-34,the destruction was more than i had anticipated .
+He had a great time on the hike.,25-34,I'm glad I rode the boat because Tracy took the highway route on the double-decker bus with a bad driver who couldn't stay on his side of the dotted lines.,35-44,the double decker busses dotted the highway too .
+I'm glad I rode the boat because Tracy took the highway route on the double-decker bus with a bad driver who couldn't stay on his side of the dotted lines.,35-44,He had a great time on the hike.,25-34,the double decker busses dotted the highway too .
+She  spent the rest of the night with her family celebrating.,25-34,All the children gathered for a family photo.,18-24,the entire family was there to celebrate .
+All the children gathered for a family photo.,18-24,She  spent the rest of the night with her family celebrating.,25-34,the entire family was there to celebrate .
+The men were very proud of their hard work.,25-34,The filming was finally able to start.,45-54,the final shoot made everyone happy and [male] was proud of himself .
+The filming was finally able to start.,45-54,The men were very proud of their hard work.,25-34,the final shoot made everyone happy and [male] was proud of himself .
+Most students participated in the activity.,35-44,We decided to take a small summer camp to learn new things and make new friends.,18-24,the friends went to summer camp to learn how to dance .
+We decided to take a small summer camp to learn new things and make new friends.,18-24,Most students participated in the activity.,35-44,the friends went to summer camp to learn how to dance .
+The girls had a triumphant dance.,18-24,The girls do a triumph dance.,55-74,the girls dance around | adding to the triumphant atmosphere .
+The girls do a triumph dance.,55-74,The girls had a triumphant dance.,18-24,the girls dance around | adding to the triumphant atmosphere .
+The water was cold the day they went to the beach but the kids didn't care.,18-24,The girls seemed a little nervous when they first got in the water.,55-74,the girls had a great time frolicking in the water .
+The girls seemed a little nervous when they first got in the water.,55-74,The water was cold the day they went to the beach but the kids didn't care.,18-24,the girls had a great time frolicking in the water .
+saw some crazy soviet graffiti,35-44,The only remaining signs of humanity were the abandoned cars and remnants of graffiti long forgotten.,25-34,the graffiti of the old civilization
+The only remaining signs of humanity were the abandoned cars and remnants of graffiti long forgotten.,25-34,saw some crazy soviet graffiti,35-44,the graffiti of the old civilization
+"She was a little disappointed when her parents brought her into the greenhouse, where everything was, well, very green.",35-44,Another treat is the indoor greenery of its greenhouse.,55-74,the greenhouse was an indoor botanical treat .
+Another treat is the indoor greenery of its greenhouse.,55-74,"She was a little disappointed when her parents brought her into the greenhouse, where everything was, well, very green.",35-44,the greenhouse was an indoor botanical treat .
+THE MAN DOWN THE HEAD,18-24,He had a great time on the hike.,25-34,the guitarist played his soul out .
+He had a great time on the hike.,25-34,THE MAN DOWN THE HEAD,18-24,the guitarist played his soul out .
+The guys went out for a meal,25-34,The group was waiting for their food.,35-44,the guys are having a casual meal together .
+The group was waiting for their food.,35-44,The guys went out for a meal,25-34,the guys are having a casual meal together .
+Inside it had beautiful architectural style.,45-54,Inside of the building there was an x on the ceiling.,18-24,the inside of the buildings had great architecture .
+Inside of the building there was an x on the ceiling.,18-24,Inside it had beautiful architectural style.,45-54,the inside of the buildings had great architecture .
+when presented with  difficut questions the man replied with confidence,25-34,The discussion gather more and more residents.,35-44,the kids could ask questions to help them out .
+The discussion gather more and more residents.,35-44,when presented with  difficut questions the man replied with confidence,25-34,the kids could ask questions to help them out .
+"Keeping up the appearance of their chronological age, the young pair put their plan into action.",35-44,"After lunch, we all went swimming to enjoy our life with the kids.",18-24,the kids put on life jackets before going swimming .
+"After lunch, we all went swimming to enjoy our life with the kids.",18-24,"Keeping up the appearance of their chronological age, the young pair put their plan into action.",35-44,the kids put on life jackets before going swimming .
+We also have some entertainment to keep us entertained.,18-24,The truck we left behind was not going to please the kids.,35-44,the kids truck that they left behind the door .
+The truck we left behind was not going to please the kids.,35-44,We also have some entertainment to keep us entertained.,18-24,the kids truck that they left behind the door .
+The kids stayed indoors all day and all night.,18-24,"Well, it's time for lunch.",55-74,the kids were inside all day and night and trying to keep busy .
+"Well, it's time for lunch.",55-74,The kids stayed indoors all day and all night.,18-24,the kids were inside all day and night and trying to keep busy .
+Hey over here look at the bride.,25-34,The bride and her bridesmaids look radiant.,55-74,the ladies were stunning that day .
+The bride and her bridesmaids look radiant.,55-74,Hey over here look at the bride.,25-34,the ladies were stunning that day .
+The castle has a beautiful view of the lake.,55-74,Do you think we could add a lake to our property like this beautiful place?,45-54,the lake was especially beautiful to view .
+Do you think we could add a lake to our property like this beautiful place?,45-54,The castle has a beautiful view of the lake.,55-74,the lake was especially beautiful to view .
+The lake was super close and accessible.,18-24,the lake was close by and accessible by bridge,25-34,the lake was very close by and accessible .
+the lake was close by and accessible by bridge,25-34,The lake was super close and accessible.,18-24,the lake was very close by and accessible .
+THE MOTHER IS AND BABY,25-34,My son and wife decided to stop by on the way home.,25-34,the little girl wants to try some beer .
+My son and wife decided to stop by on the way home.,25-34,THE MOTHER IS AND BABY,25-34,the little girl wants to try some beer .
+THE MOTHER IS AND BABY,25-34,"My wife had to hold Junior on her lap to keep him from all the ""dead soldier"" beer bottles.",55-74,the little girl wants to try some beer .
+"My wife had to hold Junior on her lap to keep him from all the ""dead soldier"" beer bottles.",55-74,THE MOTHER IS AND BABY,25-34,the little girl wants to try some beer .
+My son and wife decided to stop by on the way home.,25-34,"My wife had to hold Junior on her lap to keep him from all the ""dead soldier"" beer bottles.",55-74,the little girl wants to try some beer .
+"My wife had to hold Junior on her lap to keep him from all the ""dead soldier"" beer bottles.",55-74,My son and wife decided to stop by on the way home.,25-34,the little girl wants to try some beer .
+The restaurant looked like a great place to eat.,18-24,"Lowenbrau, unique due to the colorful cast of characters on the building, is what welcomes eager carnival goers.",25-34,the lowenbrau building had many interesting characters .
+"Lowenbrau, unique due to the colorful cast of characters on the building, is what welcomes eager carnival goers.",25-34,The restaurant looked like a great place to eat.,18-24,the lowenbrau building had many interesting characters .
+Like this one of a mother helping the bride into her gown.,25-34,"Well, you know dear, they are here in spirit.",55-74,the mother of the bride helps to adjust the bridal gown .
+"Well, you know dear, they are here in spirit.",55-74,Like this one of a mother helping the bride into her gown.,25-34,the mother of the bride helps to adjust the bridal gown .
+A band is playing classical music with a saxophone.,18-24,Vern and Haywood celebrated by playing Creole Jazz at the after party.,45-54,the musicians played songs that complimented the tone of the day .
+Vern and Haywood celebrated by playing Creole Jazz at the after party.,45-54,A band is playing classical music with a saxophone.,18-24,the musicians played songs that complimented the tone of the day .
+Hans drank too much and passed out.,45-54,"At night, one of the male cousins passed out.",35-44,the night was so long that [male] passed out from all of the fun .
+"At night, one of the male cousins passed out.",35-44,Hans drank too much and passed out.,45-54,the night was so long that [male] passed out from all of the fun .
+Not too long ago scientists discovered some new secrets in some ancient ruins.,35-44,IT IS A EMPTY PLACE,25-34,the old ruins had many secrets .
+IT IS A EMPTY PLACE,25-34,Not too long ago scientists discovered some new secrets in some ancient ruins.,35-44,the old ruins had many secrets .
+IT IS A CELEBRATION,25-34,The parade only lasted a couple of hours.,55-74,the parade lasted for hours .
+The parade only lasted a couple of hours.,55-74,IT IS A CELEBRATION,25-34,the parade lasted for hours .
+The plane was very reliable as it was even used for training new pilots.,45-54,The deceased soldiers body was prepare to be helped into the plane.,35-44,the pilots boarded the plane to begin their air force training .
+The deceased soldiers body was prepare to be helped into the plane.,35-44,The plane was very reliable as it was even used for training new pilots.,45-54,the pilots boarded the plane to begin their air force training .
+He wan the race,18-24,It was again one of the most expected but celebrated win.,45-54,the race was soon to end but who will win ? !
+It was again one of the most expected but celebrated win.,45-54,He wan the race,18-24,the race was soon to end but who will win ? !
+The students assembled for a photo shoot.,55-74,The dog was ready to go.,25-34,the rest of the students were jealous of my rocket .
+The dog was ready to go.,25-34,The students assembled for a photo shoot.,55-74,the rest of the students were jealous of my rocket .
+The students assembled for a photo shoot.,55-74,Between launches they took a break to learn about how rockets fly.,18-24,the rest of the students were jealous of my rocket .
+Between launches they took a break to learn about how rockets fly.,18-24,The students assembled for a photo shoot.,55-74,the rest of the students were jealous of my rocket .
+The dog was ready to go.,25-34,Between launches they took a break to learn about how rockets fly.,18-24,the rest of the students were jealous of my rocket .
+Between launches they took a break to learn about how rockets fly.,18-24,The dog was ready to go.,25-34,the rest of the students were jealous of my rocket .
+Maybe the stormy sky over the park told it to find a place to wait out the coming rain.,45-54,The seagull was having fun but felt a storm coming so he flew away to safety,25-34,the sky was getting stormy at the park .
+The seagull was having fun but felt a storm coming so he flew away to safety,25-34,Maybe the stormy sky over the park told it to find a place to wait out the coming rain.,45-54,the sky was getting stormy at the park .
+The windows were stained glass.,35-44,Some of the buildings have beautiful stained glass windows.,55-74,the stained glass windows were as well .
+Some of the buildings have beautiful stained glass windows.,55-74,The windows were stained glass.,35-44,the stained glass windows were as well .
+The honor network leaves the chevy dealer and arrives at the park.,25-34,Today we went to a network sponsored event for a statue dedication.,18-24,the statue dedication was sponsored by the honor network .
+Today we went to a network sponsored event for a statue dedication.,18-24,The honor network leaves the chevy dealer and arrives at the park.,25-34,the statue dedication was sponsored by the honor network .
+How are these to be connected?,45-54,"Long ago giants ran through the valley, dropping various items such as broken buckles.",25-34,the stone garden is n't well know .
+"Long ago giants ran through the valley, dropping various items such as broken buckles.",25-34,How are these to be connected?,45-54,the stone garden is n't well know .
+IT IS BLACK AND WHITE IMAGE,25-34,We stayed swinging for most of the night.,35-44,the swings that we are getting on next .
+We stayed swinging for most of the night.,35-44,IT IS BLACK AND WHITE IMAGE,25-34,the swings that we are getting on next .
+"The table displayed a meal that I could not eat, as I do not think that animals are food.",35-44,"We had a nice meal on the table, the food was great!",25-34,the table is full of food and everyone is enjoying their meal .
+"We had a nice meal on the table, the food was great!",25-34,"The table displayed a meal that I could not eat, as I do not think that animals are food.",35-44,the table is full of food and everyone is enjoying their meal .
+Life in his hometown continued without noticing or commemorating his life and death.,45-54,Then it was back civilization.,35-44,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+Then it was back civilization.,35-44,Life in his hometown continued without noticing or commemorating his life and death.,45-54,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+Life in his hometown continued without noticing or commemorating his life and death.,45-54,The rest of the world wished they had a town like mine.,25-34,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+The rest of the world wished they had a town like mine.,25-34,Life in his hometown continued without noticing or commemorating his life and death.,45-54,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+Then it was back civilization.,35-44,The rest of the world wished they had a town like mine.,25-34,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+The rest of the world wished they had a town like mine.,25-34,Then it was back civilization.,35-44,the town was small but the local restaurants were world renowned . [male] wished he could work at this location .
+IT IS A YELLOW BOARD,25-34,"On our way to the beach, we padded a railroad track and a trail.",18-24,the trail began at the abandoned railroad tracks .
+"On our way to the beach, we padded a railroad track and a trail.",18-24,IT IS A YELLOW BOARD,25-34,the trail began at the abandoned railroad tracks .
+The girls sitting at the bar were enjoying the drinks Carly handed them.,18-24,"But as the evening wore thin, so did conversation, nothing more could be said.",25-34,the two girls with drinks at the bar .
+"But as the evening wore thin, so did conversation, nothing more could be said.",25-34,The girls sitting at the bar were enjoying the drinks Carly handed them.,18-24,the two girls with drinks at the bar .
+It was a beautiful day for him.,25-34,There was a lot of variety and unsual people to see.,35-44,the variety offered was much greater than our usual one | and yet there were only one or two people looking at the goods casually .
+There was a lot of variety and unsual people to see.,35-44,It was a beautiful day for him.,25-34,the variety offered was much greater than our usual one | and yet there were only one or two people looking at the goods casually .
+They got to the bar and found a table.,25-34,Balack and whtie makes it seem artsy.,35-44,the visuals were very striking in black and white .
+Balack and whtie makes it seem artsy.,35-44,They got to the bar and found a table.,25-34,the visuals were very striking in black and white .
+a little boardwalk walk never hurt anyone.,35-44,We went for a walk.,45-54,the walkway near the water was landscaped nicely .
+We went for a walk.,45-54,a little boardwalk walk never hurt anyone.,35-44,the walkway near the water was landscaped nicely .
+And so are all of my crazy Brothers.,25-34,I observed that she was reserved with her family.,35-44,the whole family got together to observe
+I observed that she was reserved with her family.,35-44,And so are all of my crazy Brothers.,25-34,the whole family got together to observe
+They were all so glad to be there today but could'nt believe how many people showed up,25-34,We went to visit the Shinto Shrine.,18-24,their visit to the shinto shrine and [female] blossom festival was great .
+We went to visit the Shinto Shrine.,18-24,They were all so glad to be there today but could'nt believe how many people showed up,25-34,their visit to the shinto shrine and [female] blossom festival was great .
+and then drove through the bustling city,35-44,Then the bus goes along through downtown Cambridge,18-24,then it visited an older building
+Then the bus goes along through downtown Cambridge,18-24,and then drove through the bustling city,35-44,then it visited an older building
+There were friends dressing in drag.,35-44,One guy was in drag.,25-34,then my crazy friends arrived | some of them even dressed in drag .
+One guy was in drag.,25-34,There were friends dressing in drag.,35-44,then my crazy friends arrived | some of them even dressed in drag .
+There were friends dressing in drag.,35-44,Some of my friends even came dressed in drag.,55-74,then my crazy friends arrived | some of them even dressed in drag .
+Some of my friends even came dressed in drag.,55-74,There were friends dressing in drag.,35-44,then my crazy friends arrived | some of them even dressed in drag .
+One guy was in drag.,25-34,Some of my friends even came dressed in drag.,55-74,then my crazy friends arrived | some of them even dressed in drag .
+Some of my friends even came dressed in drag.,55-74,One guy was in drag.,25-34,then my crazy friends arrived | some of them even dressed in drag .
+There were many peices.,18-24,The little girls set and played with the pieces.,55-74,then she grabbed some pieces of her brothers are set and began to play with those
+The little girls set and played with the pieces.,55-74,There were many peices.,18-24,then she grabbed some pieces of her brothers are set and began to play with those
+"The family gathered around a table for cake, celebrating Chloe's birthday",25-34,"people are coming now, They brought out cake",18-24,then the cake was brought out .
+"people are coming now, They brought out cake",18-24,"The family gathered around a table for cake, celebrating Chloe's birthday",25-34,then the cake was brought out .
+"Some successes, some not so much, I give it a three out of five stars.",45-54,The other wall was just painted blue.,18-24,then the room turned blue !
+The other wall was just painted blue.,18-24,"Some successes, some not so much, I give it a three out of five stars.",45-54,then the room turned blue !
+We watched a short man pretend to be a statue.,35-44,There were politicians in the parade.,45-54,then we watched a particularly poor living statue for a short while .
+There were politicians in the parade.,45-54,We watched a short man pretend to be a statue.,35-44,then we watched a particularly poor living statue for a short while .
+A woman gives a intense stare at the camera wearing a sweatband.,25-34,"Nice fake muscles, babe.",55-74,there 's even a side competition going for the organization organization | so everyone has their toughest faces on .
+"Nice fake muscles, babe.",55-74,A woman gives a intense stare at the camera wearing a sweatband.,25-34,there 's even a side competition going for the organization organization | so everyone has their toughest faces on .
+The whole family went sledding that night.,55-74,"But Lucy was just too darn excited to go to bed, so she ran outside and jumped in the snow!",25-34,there 's nothing like a little night sledding with family .
+"But Lucy was just too darn excited to go to bed, so she ran outside and jumped in the snow!",25-34,The whole family went sledding that night.,55-74,there 's nothing like a little night sledding with family .
+The whole family went sledding that night.,55-74,IT IS A SNOW,25-34,there 's nothing like a little night sledding with family .
+IT IS A SNOW,25-34,The whole family went sledding that night.,55-74,there 's nothing like a little night sledding with family .
+"But Lucy was just too darn excited to go to bed, so she ran outside and jumped in the snow!",25-34,IT IS A SNOW,25-34,there 's nothing like a little night sledding with family .
+IT IS A SNOW,25-34,"But Lucy was just too darn excited to go to bed, so she ran outside and jumped in the snow!",25-34,there 's nothing like a little night sledding with family .
+This wall is full of art and is really cute.,45-54,IT IS A ADD,18-24,there is a fire place and and a dining room and living room .
+IT IS A ADD,18-24,This wall is full of art and is really cute.,45-54,there is a fire place and and a dining room and living room .
+People were looking at the running water below.,55-74,IT IS A RIVER,25-34,there was a huge turnout for the annual christmas rafting .
+IT IS A RIVER,25-34,People were looking at the running water below.,55-74,there was a huge turnout for the annual christmas rafting .
+A famous pool house recreation.,35-44,Jimmy didn't know that people played pool back then.,18-24,there was also an entertainment room with a pool table .
+Jimmy didn't know that people played pool back then.,18-24,A famous pool house recreation.,35-44,there was also an entertainment room with a pool table .
+The press came to interview several of them.,18-24,THE MAN INTRODUCE OUR SELF,25-34,there was also press there
+THE MAN INTRODUCE OUR SELF,25-34,The press came to interview several of them.,18-24,there was also press there
+"The race for space started decades ago and continues as scientists look for distant stars, far from our galaxy.",45-54,Went to a light show at the museum,55-74,there was once an alien race that came from a far distant galaxy .
+Went to a light show at the museum,55-74,"The race for space started decades ago and continues as scientists look for distant stars, far from our galaxy.",45-54,there was once an alien race that came from a far distant galaxy .
+"The race for space started decades ago and continues as scientists look for distant stars, far from our galaxy.",45-54,The stars appear to race in a galaxy so distant you can barely comprehend it.,35-44,there was once an alien race that came from a far distant galaxy .
+The stars appear to race in a galaxy so distant you can barely comprehend it.,35-44,"The race for space started decades ago and continues as scientists look for distant stars, far from our galaxy.",45-54,there was once an alien race that came from a far distant galaxy .
+Went to a light show at the museum,55-74,The stars appear to race in a galaxy so distant you can barely comprehend it.,35-44,there was once an alien race that came from a far distant galaxy .
+The stars appear to race in a galaxy so distant you can barely comprehend it.,35-44,Went to a light show at the museum,55-74,there was once an alien race that came from a far distant galaxy .
+IT IS A FOOD,25-34,People are standing behind the camera.,35-44,there were a lot of people there .
+People are standing behind the camera.,35-44,IT IS A FOOD,25-34,there were a lot of people there .
+Even from afar it was apparent there was a grand show taking place.,35-44,They shot the first rocket lots of sparks where lit up.,25-34,there were a lot of rockets lit off at once .
+They shot the first rocket lots of sparks where lit up.,25-34,Even from afar it was apparent there was a grand show taking place.,35-44,there were a lot of rockets lit off at once .
+I am not sure if this is GOD or Moses.,25-34,She had all sorts of ornaments.,18-24,there were many ornaments .
+She had all sorts of ornaments.,18-24,I am not sure if this is GOD or Moses.,25-34,there were many ornaments .
+I am not sure if this is GOD or Moses.,25-34,THE TAKE GROUP PHOTO,18-24,there were many ornaments .
+THE TAKE GROUP PHOTO,18-24,I am not sure if this is GOD or Moses.,25-34,there were many ornaments .
+She had all sorts of ornaments.,18-24,THE TAKE GROUP PHOTO,18-24,there were many ornaments .
+THE TAKE GROUP PHOTO,18-24,She had all sorts of ornaments.,18-24,there were many ornaments .
+There were tons of people there,18-24,There were tons of people.,25-34,there were tons of people .
+There were tons of people.,25-34,There were tons of people there,18-24,there were tons of people .
+There were tons of people there,18-24,There were so many people there from all around the city.,25-34,there were tons of people .
+There were so many people there from all around the city.,25-34,There were tons of people there,18-24,there were tons of people .
+There were tons of people.,25-34,There were so many people there from all around the city.,25-34,there were tons of people .
+There were so many people there from all around the city.,25-34,There were tons of people.,25-34,there were tons of people .
+The transformers are collection models.,35-44,IT IS A ADD,25-34,these transformers models are a great collection to have .
+IT IS A ADD,25-34,The transformers are collection models.,35-44,these transformers models are a great collection to have .
+we are ready to visit the sights location.,12-17,We were ready for the sights by our location.,25-34,they arrived in location location and were ready to see the sights .
+We were ready for the sights by our location.,25-34,we are ready to visit the sights location.,12-17,they arrived in location location and were ready to see the sights .
+This year the marching band looked especially spruce and natty in their black and white.,45-54,Two of them were holding flags.,35-44,they brought all their flags with them .
+Two of them were holding flags.,35-44,This year the marching band looked especially spruce and natty in their black and white.,45-54,they brought all their flags with them .
+The cow did not want to wake up from her rest.,18-24,They saw a dairy cow who had just been milked.,55-74,they first arrived and noticed a resting cow . they decided not to wake it .
+They saw a dairy cow who had just been milked.,55-74,The cow did not want to wake up from her rest.,18-24,they first arrived and noticed a resting cow . they decided not to wake it .
+"At church last night, our pastor had my mom and I rehearse lines for the play.",18-24,They were excited to be gathered together for the conference.,45-54,they gathered with the pastor to rehearse their lines .
+They were excited to be gathered together for the conference.,45-54,"At church last night, our pastor had my mom and I rehearse lines for the play.",18-24,they gathered with the pastor to rehearse their lines .
+We took pictures of us with the ocean in the background!,35-44,The water is beautiful here.,18-24,they got their picture taken in front of the ocean .
+The water is beautiful here.,18-24,We took pictures of us with the ocean in the background!,35-44,they got their picture taken in front of the ocean .
+Cooks display cooked food for customers.,25-34,We even got to watch as they cut off the pieces of meat we selected.,35-44,they had a little of everything .
+We even got to watch as they cut off the pieces of meat we selected.,35-44,Cooks display cooked food for customers.,25-34,they had a little of everything .
+We saw a lot of cool cars.,18-24,He had a great time on the hike.,25-34,they had a lot of cool cars there .
+He had a great time on the hike.,25-34,We saw a lot of cool cars.,18-24,they had a lot of cool cars there .
+There were a lot of crazy costumes.,55-74,Some people wear little costumes.,18-24,they had crazy costumes on .
+Some people wear little costumes.,18-24,There were a lot of crazy costumes.,55-74,they had crazy costumes on .
+T-shirts and memorabilia were available to purchase.,45-54,People bought souvenir shirts at the tournament.,45-54,they had some great t-shirts at the basketball tournament as well ! i bought one !
+People bought souvenir shirts at the tournament.,45-54,T-shirts and memorabilia were available to purchase.,45-54,they had some great t-shirts at the basketball tournament as well ! i bought one !
+T-shirts and memorabilia were available to purchase.,45-54,A boy picks out a shirt at the event.,18-24,they had some great t-shirts at the basketball tournament as well ! i bought one !
+A boy picks out a shirt at the event.,18-24,T-shirts and memorabilia were available to purchase.,45-54,they had some great t-shirts at the basketball tournament as well ! i bought one !
+People bought souvenir shirts at the tournament.,45-54,A boy picks out a shirt at the event.,18-24,they had some great t-shirts at the basketball tournament as well ! i bought one !
+A boy picks out a shirt at the event.,18-24,People bought souvenir shirts at the tournament.,45-54,they had some great t-shirts at the basketball tournament as well ! i bought one !
+THEY ARE CUTE COUPLES,25-34,We bought a house and spent fifty grand.,45-54,they had spent almost fifty years together .
+We bought a house and spent fifty grand.,45-54,THEY ARE CUTE COUPLES,25-34,they had spent almost fifty years together .
+The man looked at the black spots on his foot,25-34,So here I sit not knowing what to do with a foot that looked as if it might fall off.,35-44,they looked the foot over .
+So here I sit not knowing what to do with a foot that looked as if it might fall off.,35-44,The man looked at the black spots on his foot,25-34,they looked the foot over .
+All the loved ones came ver for easter treats,25-34,"Granny brought the treats, everyone loved her goodies.",18-24,they loved all of their treats and goodies for easter .
+"Granny brought the treats, everyone loved her goodies.",18-24,All the loved ones came ver for easter treats,25-34,they loved all of their treats and goodies for easter .
+"Once they got going, they rolled it easily.",25-34,They called a few friends to help lift the heavy machine.,18-24,they make good progress though as they learn to work together well .
+They called a few friends to help lift the heavy machine.,18-24,"Once they got going, they rolled it easily.",25-34,they make good progress though as they learn to work together well .
+His mom was so proud of him.,25-34,The kids all got onto the couch for a photo.,35-44,they posed for a picture with their new dolls and the other kids in the family .
+The kids all got onto the couch for a photo.,35-44,His mom was so proud of him.,25-34,they posed for a picture with their new dolls and the other kids in the family .
+It was a beautiful day for him.,25-34,IT IS A BUILDINGS,18-24,they showed us around some of the neater places which every tourist should see .
+IT IS A BUILDINGS,18-24,It was a beautiful day for him.,25-34,they showed us around some of the neater places which every tourist should see .
+They took cute pictures together.,18-24,you are so warm,35-44,they took some partner photos in the sun .
+you are so warm,35-44,They took cute pictures together.,18-24,they took some partner photos in the sun .
+"The crowd was really into his song, which made him feel enthusiastic and lift his arms.",45-54,THE MAN SING A SONG,18-24,they were a little nervous but the tried not to let the crowd see .
+THE MAN SING A SONG,18-24,"The crowd was really into his song, which made him feel enthusiastic and lift his arms.",45-54,they were a little nervous but the tried not to let the crowd see .
+And was very happy to be in the field.,25-34,The group of friends always enjoyed getting together.,35-44,they were all there for the party that night .
+The group of friends always enjoyed getting together.,35-44,And was very happy to be in the field.,25-34,they were all there for the party that night .
+"Many times, you can witness one-of-a-kind monuments being created.",25-34,The guests add their prayer list to the tower.,55-74,they were getting one of the displays ready .
+The guests add their prayer list to the tower.,55-74,"Many times, you can witness one-of-a-kind monuments being created.",25-34,they were getting one of the displays ready .
+"Even the children were incredibly welcoming, and warm.",35-44,The people in the town all looked similar to each other in Asia.,55-74,they were very warm and welcoming towards me .
+The people in the town all looked similar to each other in Asia.,55-74,"Even the children were incredibly welcoming, and warm.",35-44,they were very warm and welcoming towards me .
+He called them all into the lobby and they stood around him.,55-74,He congratulates them for being so awesome.,18-24,they were very welcoming .
+He congratulates them for being so awesome.,18-24,He called them all into the lobby and they stood around him.,55-74,they were very welcoming .
+I wished we were allowed inside,25-34,Before people go inside they post selfies.,35-44,they wished they were allowed inside .
+Before people go inside they post selfies.,35-44,I wished we were allowed inside,25-34,they wished they were allowed inside .
+Not everyone wears glasses durring the party but this boy does,18-24,Even her weird brother.,25-34,this boy wears glasses showing the new year .
+Even her weird brother.,25-34,Not everyone wears glasses durring the party but this boy does,18-24,this boy wears glasses showing the new year .
+We left the airport and starting driving to our vacation home,35-44,IT IS A SEA,25-34,this is a picture of a clearing .
+IT IS A SEA,25-34,We left the airport and starting driving to our vacation home,35-44,this is a picture of a clearing .
+A group of friends enjoy each others company.,18-24,The group took another photo together as they continued to enjoy their night.,25-34,this is a picture of a group of friends .
+The group took another photo together as they continued to enjoy their night.,25-34,A group of friends enjoy each others company.,18-24,this is a picture of a group of friends .
+IT IS A BIG SEA,25-34,We past many wetlands along the way,35-44,this is an empty outdoors scene .
+We past many wetlands along the way,35-44,IT IS A BIG SEA,25-34,this is an empty outdoors scene .
+His best friend was there too.,18-24,My brother looks pensive...deep in thought.,45-54,this is another guest at the party . he seems to be thinking pretty intently .
+My brother looks pensive...deep in thought.,45-54,His best friend was there too.,18-24,this is another guest at the party . he seems to be thinking pretty intently .
+Some went for a lighter costume with some heart shaped shades.,18-24,One woman had cool heart shaped sunglasses.,35-44,this lady 's eyes grew so big seeing the zombies that she needed these oversized cute heart-shaped sunglasses .
+One woman had cool heart shaped sunglasses.,35-44,Some went for a lighter costume with some heart shaped shades.,18-24,this lady 's eyes grew so big seeing the zombies that she needed these oversized cute heart-shaped sunglasses .
+He thinks some of his employees has some hidden agenda,35-44,The professional raises question.,25-34,this man definitely had a hidden agenda .
+The professional raises question.,25-34,He thinks some of his employees has some hidden agenda,35-44,this man definitely had a hidden agenda .
+"""You drive me to alcoholism you turkey!"" she shouted.",35-44,The melon was sliced to look very aesthetically pleasing.,18-24,this place is amazing
+The melon was sliced to look very aesthetically pleasing.,18-24,"""You drive me to alcoholism you turkey!"" she shouted.",35-44,this place is amazing
+"""You drive me to alcoholism you turkey!"" she shouted.",35-44,ITIS A YELLOW FOOD,25-34,this place is amazing
+ITIS A YELLOW FOOD,25-34,"""You drive me to alcoholism you turkey!"" she shouted.",35-44,this place is amazing
+The melon was sliced to look very aesthetically pleasing.,18-24,ITIS A YELLOW FOOD,25-34,this place is amazing
+ITIS A YELLOW FOOD,25-34,The melon was sliced to look very aesthetically pleasing.,18-24,this place is amazing
+I took a picture of a building downtown.,18-24,"I saw this downtown building, which was bigger than any of the buildings in my small village.",45-54,this was another building that we saw downtown .
+"I saw this downtown building, which was bigger than any of the buildings in my small village.",45-54,I took a picture of a building downtown.,18-24,this was another building that we saw downtown .
+Some of the members were better at it than others.,18-24,I think I could do that too.,35-44,this way he does n't damage things because it melts and goes away .
+I think I could do that too.,35-44,Some of the members were better at it than others.,18-24,this way he does n't damage things because it melts and goes away .
+They dined on delicious meatloaf and roasted potatoes.,55-74,And then went to dinner at a nice restaurant.,45-54,to end the day we ate a wonderful meal of meatloaf | mash potatoes and corn .
+And then went to dinner at a nice restaurant.,45-54,They dined on delicious meatloaf and roasted potatoes.,55-74,to end the day we ate a wonderful meal of meatloaf | mash potatoes and corn .
+Esmerelda searched high and low for the perfect location for the next witches coven,45-54,"You know, the thing they don't tell you about being a sword in the stone is all the downtime.",25-34,today i stumbled upon this when i walked through my woods .
+"You know, the thing they don't tell you about being a sword in the stone is all the downtime.",25-34,Esmerelda searched high and low for the perfect location for the next witches coven,45-54,today i stumbled upon this when i walked through my woods .
+A male buddy traveled far to spend quality time with his friend.,25-34,I traveled a few hours to go spend some time with one of my male friends at his house.,45-54,today i traveled back in time to see my old boyfriend [male] .
+I traveled a few hours to go spend some time with one of my male friends at his house.,45-54,A male buddy traveled far to spend quality time with his friend.,25-34,today i traveled back in time to see my old boyfriend [male] .
+I love to vacation at the sea.,55-74,I spent my vacation seaside.,45-54,vacationing here is really awesome . beautiful sea water .
+I spent my vacation seaside.,45-54,I love to vacation at the sea.,55-74,vacationing here is really awesome . beautiful sea water .
+The vendors were all ready to process our purchase.,25-34,Even after the stores close there are vendors that stay open and ready to sell gifts and food to the tourists looking to purchase.,45-54,vendors had all of their items on display and ready for purchase .
+Even after the stores close there are vendors that stay open and ready to sell gifts and food to the tourists looking to purchase.,45-54,The vendors were all ready to process our purchase.,25-34,vendors had all of their items on display and ready for purchase .
+IT IS A BLANK,25-34,"The air was full of excitement tonight, with the expectation of rising through sky.",18-24,was risen in the air tonight
+"The air was full of excitement tonight, with the expectation of rising through sky.",18-24,IT IS A BLANK,25-34,was risen in the air tonight
+We were drunk and out having a good time.,18-24,"Troy just bought his first digital camera and brought it to the party that he and his crew were going to, he was a little shaky at first.",35-44,we all went down south for carnival this year .
+"Troy just bought his first digital camera and brought it to the party that he and his crew were going to, he was a little shaky at first.",35-44,We were drunk and out having a good time.,18-24,we all went down south for carnival this year .
+There are always milestones to every birthday.,18-24,It was my husbands birthday.,35-44,we are getting to that age where we are going to milestone birthday parties .
+It was my husbands birthday.,35-44,There are always milestones to every birthday.,18-24,we are getting to that age where we are going to milestone birthday parties .
+There's lot of great shopping too.,25-34,We were surprised when we discovered a very modern coffee shop.,18-24,we discovered this coffee place that really surprised us .
+We were surprised when we discovered a very modern coffee shop.,18-24,There's lot of great shopping too.,25-34,we discovered this coffee place that really surprised us .
+We sat outside in the sunshine and commemorated the day with a photo.,45-54,It was a great day for family to gather together.,25-34,we enjoyed our outing very much !
+It was a great day for family to gather together.,25-34,We sat outside in the sunshine and commemorated the day with a photo.,45-54,we enjoyed our outing very much !
+The petting zoo had some interesting looking goats.,55-74,A goat waited for people to pet it.,18-24,we first went to see the goats .
+A goat waited for people to pet it.,18-24,The petting zoo had some interesting looking goats.,55-74,we first went to see the goats .
+There was always some business meeting that was happening.,35-44,They attended a business meeting.,25-34,we had a business meeting .
+They attended a business meeting.,25-34,There was always some business meeting that was happening.,35-44,we had a business meeting .
+We just listen to everything we have to share while we all sit on the couches,18-24,Another man in a orange shirts sits back and looks at the cat.,25-34,we hung out on the couches .
+Another man in a orange shirts sits back and looks at the cat.,25-34,We just listen to everything we have to share while we all sit on the couches,18-24,we hung out on the couches .
+"What a funny sign, LOL at LFB!",45-54,It was such a huge building and the office I needed had a sign on its door.,18-24,we really like the sign .
+It was such a huge building and the office I needed had a sign on its door.,18-24,"What a funny sign, LOL at LFB!",45-54,we really like the sign .
+His mom was so proud of him.,25-34,A father and his son spend time together after a long tiring week.,18-24,we stopped at a nearby pond in the morning .
+A father and his son spend time together after a long tiring week.,18-24,His mom was so proud of him.,25-34,we stopped at a nearby pond in the morning .
+We saw the statue in the park.,35-44,I recommend taking a photograph of where I stopped by the ironwork art piece.,25-34,we stopped to take a photograph of an ironwork globe .
+I recommend taking a photograph of where I stopped by the ironwork art piece.,25-34,We saw the statue in the park.,35-44,we stopped to take a photograph of an ironwork globe .
+The dog was ready to go.,25-34,"After Derek's girlfriend broke up with him he really needed the support of a friend, or two.",35-44,we went out to support our friend .
+"After Derek's girlfriend broke up with him he really needed the support of a friend, or two.",35-44,The dog was ready to go.,25-34,we went out to support our friend .
+There was a great crowd at the concert.,55-74,"The overall atmosphere was festive, there were plenty of people but not miserably crowded.",25-34,we were part of a very large crowd !
+"The overall atmosphere was festive, there were plenty of people but not miserably crowded.",25-34,There was a great crowd at the concert.,55-74,we were part of a very large crowd !
+We went to the seashore to participate in the annual coastal celebration,75YearsOrOlder,She visited the coastal celebration ferry.,18-24,welcome to the coastal celebration . this was the second place we visited .
+She visited the coastal celebration ferry.,18-24,We went to the seashore to participate in the annual coastal celebration,75YearsOrOlder,welcome to the coastal celebration . this was the second place we visited .
+This reminded me of the chandleiers over my dining table for some reason.,55-74,IT IS A LEAVE LIGHTS,18-24,when they were finally really close to earth they had already lost more than half of their race .
+IT IS A LEAVE LIGHTS,18-24,This reminded me of the chandleiers over my dining table for some reason.,55-74,when they were finally really close to earth they had already lost more than half of their race .
+All the architecture around it has a lot of detail in it.,18-24,"The time it had to have taken to create the detailing on this building, for example, makes it the kind of view I want to spend a lot of time at, without the distraction of a talking guide.",45-54,when you look at the details of the building you appreciate how much time it took .
+"The time it had to have taken to create the detailing on this building, for example, makes it the kind of view I want to spend a lot of time at, without the distraction of a talking guide.",45-54,All the architecture around it has a lot of detail in it.,18-24,when you look at the details of the building you appreciate how much time it took .
+"One passenger made it to the ground safely, the survival story.",18-24,THE AEROPLANE IN WATER,25-34,while the crashed plane is a devastating loss | the safety of the pilots and their story of survival is a miracle .
+THE AEROPLANE IN WATER,25-34,"One passenger made it to the ground safely, the survival story.",18-24,while the crashed plane is a devastating loss | the safety of the pilots and their story of survival is a miracle .
