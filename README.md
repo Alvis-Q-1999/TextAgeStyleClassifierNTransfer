@@ -21,14 +21,14 @@ We fine-tune a BERT-based model for **age group classification**, using textual 
 ### 2. T5 Style Transfer
 
 #### Unsupervised Setting
-**StyleRemover**
+StyleRemover
 
 - **Input**: A styled sentence .
 - **Output**: A neutral style sentence.
 - **Prompt Format**:  
   `"transfer from [input_age] to neutral style: [styled_sentence]"`
 
-**StyleApplier**
+StyleApplier
 
 - **Input**: A neutral style sentence .
 - **Output**: A new styled sentence.
