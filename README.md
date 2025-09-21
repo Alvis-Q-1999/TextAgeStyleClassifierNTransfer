@@ -21,27 +21,36 @@ We fine-tune a BERT-based model for **age group classification**, using textual 
 ### 2. T5 Style Transfer
 
 #### Unsupervised Setting
+**StyleRemover**
 
-- **Input**: A styled sentence + source/target age.
-- **Output**: The same sentence (self-supervised reconstruction).
+- **Input**: A styled sentence .
+- **Output**: A neutral style sentence.
 - **Prompt Format**:  
-  `"transfer from [input_age] to [target_age]: [styled_sentence]"`
+  `"transfer from [input_age] to neutral style: [styled_sentence]"`
 
-- **Goal**: Teach the model to rewrite in the target style, even without explicit paired data.
+**StyleApplier**
+
+- **Input**: A neutral style sentence .
+- **Output**: A new styled sentence.
+- **Prompt Format**:  
+  `"transfer from neutral style to [target_age] style: [neutral_sentence]"`
+
 
 #### Supervised Setting
 
-- **Input**: Neutral sentences describing an object/event.
-- **Output**: The same description rewritten in the style of a specific age group.
-- **Paired Training**: Different age groups describing the *same thing* are treated as supervised pairs.
+- **Input**: A sentence in style A.
+- **Target**: A sentence in style B describing the same object.
+- **Output**: A rewrited sentence in style B.
+- **Prompt Format**:  
+  `"transfer from [input_age] to [target_age] style: [style-A sentence]"`
 
 
 ## Dataset
 
 The dataset includes:
 - `input.sentences`: The original sentence (neutral or stylized).
-- `persona.age`: The associated age group (e.g., "teen", "middle", "senior").
-- `output.sentences`: The target-styled sentence.
+- `persona.age`: The associated age group (e.g., "18-24", "25-34", "35-44").
+- `output.sentences`: The neutral-styled sentence.
 
 In the **supervised setting**, paired samples are created by matching different age groups’ descriptions of the same item. In the **unsupervised setting**, the model is trained to paraphrase within and across age styles using prompt-based guidance.
 
