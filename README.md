@@ -54,6 +54,15 @@ The dataset includes:
 
 In the **supervised setting**, paired samples are created by matching different age groups’ descriptions of the same item. In the **unsupervised setting**, the model is trained to paraphrase within and across age styles using prompt-based guidance.
 
+## Demo
+The transfer_demo.ipynb provides a minimal demonstration of the age-style transfer functionality. It applies a pretrained T5 model to convert text into different age-based linguistic styles (e.g., "18-24" → "55-74").
+
+This demo relies on a fine-tuned T5 model checkpoint, which is not included in this repository due to size constraints.
+
+You can download the required model files from the following link:
+
+https://drive.google.com/drive/u/0/folders/16d2ul-fpIuxRnuuPyZxrH7rvRsoZyuoW
+
 
 ## Technologies
 
